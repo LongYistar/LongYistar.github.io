@@ -8,47 +8,33 @@ title: Awards
 
 ## Scholarships
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 12 undergraduates are selected around the world
-- Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2024：First Prize Scholarship of FZU ($2100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
+- June 2021：First Prize Outstanding student scholarship
+- June 2019：Third Prize Outstanding student scholarship
+- June 2019：National Encouragement scholarship
 
-## Competitions (Selected)
+## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University 2022<br>
+- May 2023: Third Prize in 9th Chinese College Student Competition on Energy Economics Sichuan Regional
+- Dec 2021：Second Prize in Mathematics Competition of Chinese College Students (Non-Mathematics Category)
+- Nov 2021：Excellence Award of the University Group in the 10th "Longtu Cup" National BIM Competition
+- May 2021：Third Prize in 23th Mathematical Contest In Modeling Certificate of Achievement
+- Nov 2020：**<font color='red'>National Second Prize</font>** in Collected the China Undergraduate Mathematical Contest in Modeling
+- Nov 2020：**<font color='red'>First Prize</font>** in BIM Modeling Contest for College Students in Sichuan Province (**champion**)
+- Nov 2020：Excellence Award in 3th "Youlu Cup" National BIM Technology Competition
+- May 2020：Second Prize in 13th "Certification Cup" Mathematics China Online Challenge
+- May 2020：Third Prize in 22th Mathematical Contest In Modeling Certificate of Achievement
+- June 2019：Second Prize in 12th "Certification Cup" Mathematics China Online Challenge <br>
 
 ## Honors
 
-- Dec 2023：AAAI 2024 UC Scholar<br>Mentor: Tozammel Hossain, University of North Texas
-- Aug 2023：FEPG Scholarship<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：XiamenAir Scholarship<br>Funded by Xiamen Airline, China
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- *<font color='gray'>July 2023：Nomination for Baosteel Scholarship</font>*
-- *<font color='gray'>Sep 2022：Nomination for China National Scholarship</font>*
-- *<font color='gray'>June 2022：Nomination for China Telecom Scholarship</font>*<br>
+- Nov 2023：Second Prize of the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption Youth Academic Sub-Session Excellent Communication Report
+- June 2022：Outstanding graduate of Jinjiang College of Sichuan University
+- Jul 2021：Sichuan Provincial College Student Comprehensive Quality A-Level Certificate
+- Sep 2020：Excellent member of the Communist Youth League of Jinjiang College of Sichuan University
 
 ## Services
 
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+- Feb 2024 - Jul 2025：China Highway & Transportation Society (Student member)
+- Jan 2024 - Jul 2025：Chinese Society of Technology Economics, Engineering Construction Management Committee (Student member)
+- Sep 2021：Vice President of BIM Association of Jinjiang College of Sichuan University
+- Aug 2020：Youth Volunteer Service certificate against COVID-19 of Jinjiang College of Sichuan University<br>

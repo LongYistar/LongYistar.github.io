@@ -17,7 +17,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 **<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
 
 - **Sep 2022 - June 2025:** Chengdu University of Technology (Master of Civil Engineering and Water Conservancy, supervised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305))
-- **Sep 2018 - June 2022:** Jinjiang College, Sichuan University (BEng, Engineering cost major)
+- **Sep 2018 - June 2022:** Jinjiang College of Sichuan University (BEng, Engineering cost major)
 
 
 ---
@@ -45,6 +45,6 @@ My present research delves into the intricate interplay between the constructed 
 - **Nov 2020：**Collected the China Undergraduate Mathematical Contest in Modeling "National Second Prize".
 - **Nov 2020：**Collected the Sichuan Provincial College Students BIM Modeling Competition "First Prize" (Champion).
 - **June 2019：**Happy to be awarded the National Encouragement scholarship.
-- **Jun 2019：**Collected the Twelfth "Certification Cup" Mathematics China Online Challenge "Second Prize".
+- **Jun 2019：**Collected the 12th "Certification Cup" Mathematics China Online Challenge "Second Prize".
 
 
