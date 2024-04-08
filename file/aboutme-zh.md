@@ -4,10 +4,11 @@ permalink: /file/aboutme-zh/index.html
 title: aboutme-zh
 ---
 
-# About Me [English Version (英文)](https://longyistar.github.io/index/)
+# About Me 
 
 <img src="https://longyistar.github.io/longyi.jpg" class="floatpic" width="360" height="480">
 
+> &nbsp; [English Version (英文)](https://longyistar.github.io/index/)
 Here is **Yi Long (龙毅)**.
 
 I am a graduate student majoring in Civil Engineering and Water Conservancy in College of Environment and Civil Engineering, Chengdu University of Technology, Grade 2022. Advised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305)
