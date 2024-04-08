@@ -9,43 +9,43 @@ title: aboutme-zh
 <img src="https://longyistar.github.io/longyi.jpg" class="floatpic" width="360" height="480">
 
 > &nbsp; [English Version (英文)](https://longyistar.github.io/index/)
-Here is **Yi Long (龙毅)**.
+这里是 **龙毅 (Yi Long)**.
 
-I am a graduate student majoring in Civil Engineering and Water Conservancy in College of Environment and Civil Engineering, Chengdu University of Technology, Grade 2022. Advised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305)
+我是成都理工大学环境与土木工程学院土木水利专业2022级研究生,导师是 [敖仪斌教授](https://hgycg.cdut.edu.cn/teacher/10201402305)
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *longyi@stu.cdut.edu.cn*
+如果您对我的任何方面感兴趣，欢迎交流合作，互通有无，电子邮件 - *longyi@stu.cdut.edu.cn*
 
-## Academic Background
+## 教育背景
 
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[亮点]</font> 本人正在寻求2025年秋季入学的博士职位。如果有合适的，请与我联系！**
 
-- **Sep 2022 - June 2025:** Chengdu University of Technology (Master of Civil Engineering and Water Conservancy, supervised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305))
-- **Sep 2018 - June 2022:** Jinjiang College of Sichuan University (BEng, Engineering cost major)
+- **2022/09 - 2025/06:** 成都理工大学土木水利硕士,导师 [敖仪斌教授](https://hgycg.cdut.edu.cn/teacher/10201402305)
+- **2018/09 - 2022/06:** 四川大学锦江学院（工学学士，工程造价专业）
 
 
 ---
 
-## Research Interests
+## 研究方向
 
-- Built environment
-- Travel behavior
+- 建成环境
+- 出行行为
 - Agent-based modeling
-- Applied Machine Learning
-- [My latest research proposal](https://longyistar.github.io/file/.pdf)🔗
+- 应用机器学习
+- [我最新的研究计划](https://longyistar.github.io/file/.pdf)🔗
 
-My present research delves into the intricate interplay between the constructed environment and the everyday travel habits of children. I am deeply engaged in exploring the applications of **Machine Learning (ML)** and **Agent-Based Modeling (ABM)** within the realm of **Children's Travel Behavior**. In essence, sophisticated technologies such as ML and ABM have a profound impact on everyone's lives by reshaping our understanding of the built environment and its effects on children's travel patterns. I am committed to dedicating my expertise to this significant endeavor, aiming to enhance societal well-being through my research and its applications.
+我目前的研究探讨了建成环境与儿童日常出行行为之间的关系。探索 **机器学习 (ML)** 和 **智能体建模(ABM)**在 **儿童出行行为**的应用. 从本质上讲，通过ML和ABM等方法仿真预测出建成环境与儿童出行方式的关系，这是一项有意思且有价值的研究。我致力于通过我的研究及其应用来提高社会福祉。
 
 ---
 
-## News and Updates
+## 动态
 
-- **Nov 2023：**Collected the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption Youth Academic Sub-Session Excellent Communication Report "Second Prize".
-- **Nov 2023：**Happy to have presented at the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption, in Chengdu, China.
-- **Jun 2023：**Happy to attend the First Academic Seminar on Neural Engineering Management, in Chongqing, China.
-- **May 2023：**Collected the The 9th Chinese College Student Competition on Energy Economics Sichuan Regional "Third Prize".
-- **Dec 2021：**Collected the Mathematics Competition of Chinese College Students (Non-Mathematics Category) "Second Prize".
-- **Jul 2021：**Happy to be awarded the Sichuan Provincial College Student Comprehensive Quality A-Level Certificate.
-- **Nov 2020：**Collected the China Undergraduate Mathematical Contest in Modeling "National Second Prize".
-- **Nov 2020：**Collected the Sichuan Provincial College Students BIM Modeling Competition "First Prize" (Champion).
-- **June 2019：**Happy to be awarded the National Encouragement scholarship.
-- **Jun 2019：**Collected the 12th "Certification Cup" Mathematics China Online Challenge "Second Prize".
+- **2023/11：**获得第一届生活碳排放与可持续消费学术研讨会青年学术分会优秀交流报告二等奖
+- **2023/11：**很高兴在中国成都举行的第一届生活碳排放与可持续消费学术研讨会做交流报告
+- **2023/06：**很高兴参加在中国重庆举行的第一届神经工程管理学术研讨会
+- **2023/05：**获得第九届全国大学生能源经济学术创意大赛四川赛区“三等奖”
+- **2021/12：**获得中国大学生数学竞赛（非数学类）“二等奖”
+- **2021/07：**很高兴被授予四川省大学生综合素质A级证书
+- **2020/11：**获得中国大学生数学建模竞赛“全国二等奖”
+- **2020/11：**获得四川省大学生BIM建模竞赛“一等奖”（冠军）
+- **2019/09：**获得国家励志奖学金。
+- **2019/06：**获得第十二届“认证杯”数学中国网络挑战赛“二等奖”。
