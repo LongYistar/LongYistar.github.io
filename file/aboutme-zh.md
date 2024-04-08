@@ -8,7 +8,7 @@ title: aboutme-zh
 
 <img src="https://longyistar.github.io/longyi.jpg" class="floatpic" width="360" height="480">
 
-> &nbsp; [English Version (英文)](https://longyistar.github.io/index/)
+> &nbsp; [English Version (英文)](https://longyistar.github.io/aboutme/)
 <br>
 
 你好！我是**龙毅 (Yi Long)**.
