@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://longyistar.github.io/file/publications-zh/)
+> Lastest Update: 2024/04/10&nbsp;  [中文版本 (Chinese Version)](https://longyistar.github.io/file/publications-zh/)
 
 ## Journal Paper
 
@@ -24,6 +24,6 @@ title: Publications
 
 ## Thesis
 
-- **Yi Long**，Qimiao Xie（Advisor）.BDevelopment and Application of a Lightweight Platform for BIM Models.Undergrad Thesis.(2022)
+- **Yi Long**，Qimiao Xie（Advisor）.Development and Application of a Lightweight Platform for BIM Models.Undergrad Thesis.(2022)
 
   <br>
