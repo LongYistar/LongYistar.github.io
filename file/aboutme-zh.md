@@ -1,8 +1,10 @@
 ---
 layout: page
+permalink: /file/aboutme-zh/index.html
+title: aboutme-zh
 ---
 
-# About Me [中文版本 (Chinese Version)](https://longyistar.github.io/file/aboutme-zh/)
+# About Me [English Version (英文)](https://longyistar.github.io/index/)
 
 <img src="https://longyistar.github.io/longyi.jpg" class="floatpic" width="360" height="480">
 
@@ -46,5 +48,3 @@ My present research delves into the intricate interplay between the constructed 
 - **Nov 2020：**Collected the Sichuan Provincial College Students BIM Modeling Competition "First Prize" (Champion).
 - **June 2019：**Happy to be awarded the National Encouragement scholarship.
 - **Jun 2019：**Collected the 12th "Certification Cup" Mathematics China Online Challenge "Second Prize".
-
-
