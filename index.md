@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2022 - June 2025:** Chengdu University of Technology (Master of Civil and Hydraulic Engineering, supervised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305))
 - **Sep 2018 - June 2022:** Jinjiang College, Sichuan University (BEng, Engineering cost major)
-- **Sep 2022 - June 2025:** Chengdu University of Technology (BEng, EECS)
+
 
 ---
 
