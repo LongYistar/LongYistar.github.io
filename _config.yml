@@ -44,7 +44,6 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
@@ -52,8 +51,6 @@ highlighter: rouge
 # markdown: kramdown
 # markdown: redcarpet
 # pygments: true
-
-
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
@@ -75,7 +72,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: longyi
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
