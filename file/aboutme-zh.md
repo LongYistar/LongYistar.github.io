@@ -10,7 +10,8 @@ title: aboutme-zh
 
 > &nbsp; [English Version (英文)](https://longyistar.github.io/index/)
 <br>
-这里是 **龙毅 (Yi Long)**.
+
+你好！我是**龙毅 (Yi Long)**.
 
 我是成都理工大学环境与土木工程学院土木水利专业2022级研究生,导师是 [敖仪斌教授](https://hgycg.cdut.edu.cn/teacher/10201402305)
 
