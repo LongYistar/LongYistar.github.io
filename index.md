@@ -8,7 +8,7 @@ layout: page
 
 Here is **Long Yi (龙毅)**.
 
-I am a graduate student majoring in Civil engineering and Water Conservancy in School of Environment and Civil Engineering, Chengdu University of Technology, Grade 2022. Advised by [Prof. Yibin Ao] (https://hgycg.cdut.edu.cn/teacher/10201402305)
+I am a graduate student majoring in Civil engineering and Water Conservancy in School of Environment and Civil Engineering, Chengdu University of Technology, Grade 2022. Advised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305)
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *longyi@stu.cdut.edu.cn*
 
