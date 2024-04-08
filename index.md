@@ -8,7 +8,7 @@ layout: page
 
 Here is **Long Yi (龙毅)**.
 
-I am a graduate student majoring in Civil engineering and Water Conservancy in School of Environment and Civil Engineering, Chengdu University of Technology, Grade 2022. Advised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305)
+I am a graduate student majoring in Civil Engineering and Water Conservancy in College of Environment and Civil Engineering, Chengdu University of Technology, Grade 2022. Advised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305)
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *longyi@stu.cdut.edu.cn*
 
@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2022 - June 2025:** Chengdu University of Technology (Master of Civil and Hydraulic Engineering, supervised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305))
+- **Sep 2022 - June 2025:** Chengdu University of Technology (Master of Civil Engineering and Water Conservancy, supervised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305))
 - **Sep 2018 - June 2022:** Jinjiang College, Sichuan University (BEng, Engineering cost major)
 
 
@@ -24,27 +24,26 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Cyber-Physical System
-- Industrial Informatics
+- Built environment
+- Travel behavior
+- Agent-based modeling
 - Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf)🔗
+- [My latest research proposal](https://caihanlin.com/file/.pdf)🔗
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
+My present research delves into the intricate interplay between the constructed environment and the everyday travel habits of children.  I am deeply engaged in exploring the applications of **Machine Learning (ML)** and **Agent-Based Modeling (ABM)** within the realm of **Children's Travel Behavior**.  In essence, sophisticated technologies such as ML and ABM have a profound impact on everyone's lives by reshaping our understanding of the built environment and its effects on children's travel patterns. I am committed to dedicating my expertise to this significant endeavor, aiming to enhance societal well-being through my research and its applications.
 ---
 
 ## News and Updates
 
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Feb 2024：**Got a MSc offer from the CS department of UCL.
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
-- **Jun 2022：**Started research intern at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Nov 2023：**Collected the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption Youth Academic Sub-Session Excellent Communication Report "Second Prize".
+- **Nov 2023：**Happy to have presented at the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption, in Chengdu, China.
+- **Jun 2023：**Happy to attend the First Academic Seminar on Neural Engineering Management, in Chongqing, China.
+- **May 2023：**Collected the The 9th Chinese College Student Competition on Energy Economics Sichuan Regional "Third Prize".
+- **Dec 2021：**Collected the Mathematics Competition of Chinese College Students (Non-Mathematics Category) "Second Prize".
+- **Jul 2021：**Happy to be awarded the Sichuan Provincial College Student Comprehensive Quality A-Level Certificate.
+- **Nov 2020：**Collected the China Undergraduate Mathematical Contest in Modeling "National Second Prize".
+- **Nov 2020：**Collected the Sichuan Provincial College Students BIM Modeling Competition "First Prize" (First Place).
+- **June 2019：**Happy to be awarded the National Encouragement scholarship.
+- **Jun 2019：**Collected the Twelfth "Certification Cup" Mathematics China Online Challenge "Second Prize".
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
