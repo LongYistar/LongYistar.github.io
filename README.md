@@ -1,6 +1,6 @@
 # GuangLun means Nimbus in Chinese ✨
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is my personal web repo. If you like it, please star it! 🥰
+Here is **LongYi (龙毅)**. This is my personal web repo. If you like it, please star it! 🥰
 
 ## Update and News
 
