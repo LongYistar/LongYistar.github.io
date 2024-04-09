@@ -8,8 +8,8 @@ title: Awards
 
 ## Scholarships
 
-- June 2021：First Prize Outstanding student scholarship
-- June 2019：Third Prize Outstanding student scholarship
+- June 2021：First Prize Of Outstanding student scholarship
+- June 2019：Third Prize Of Outstanding student scholarship
 - June 2019：National Encouragement scholarship
 
 ## Competitions

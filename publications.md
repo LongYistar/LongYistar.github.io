@@ -16,7 +16,7 @@ title: Publications
 
 ## Meeting report
 
-- **Yi Long**, Yibin Ao(Advisor), Mingyang Li, Panyu Peng. Research on Low-carbon Travel from the Perspective of Children-friendly Facility Spatial Distribution. First Academic Seminar on Life Carbon Emissions and Sustainable Consumption. (2023)
+- **Yi Long**, Yibin Ao(Mentor), Mingyang Li, Panyu Peng. Research on Low-carbon Travel from the Perspective of Children-friendly Facility Spatial Distribution. First Academic Seminar on Life Carbon Emissions and Sustainable Consumption. (2023)
 
   <br>
 
@@ -24,6 +24,6 @@ title: Publications
 
 ## Thesis
 
-- **Yi Long**, Qimiao Xie(Advisor). Development and Application of a Lightweight Platform for Building Information Modeling. Undergrad Thesis. (2022)
+- **Yi Long**, Qimiao Xie(Mentor). Development and Application of a Lightweight Platform for Building Information Modeling. Undergrad Thesis. (2022)
 
   <br>
