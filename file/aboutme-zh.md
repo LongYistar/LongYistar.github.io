@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /file/aboutme-zh/index.html
-title: aboutme-zh
+title: Aboutme-zh
 ---
 
 # About Me 
 
 <img src="https://longyistar.github.io/longyi.jpg" class="floatpic" width="360" height="480">
 
-> &nbsp; [English Version (英文)](https://longyistar.github.io/aboutme/)
+> &nbsp; [English Version (英文)](https://longyistar.github.io/index/)
 <br>
 
 你好！我是**龙毅 (Yi Long)**.
