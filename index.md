@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me 
+## About Me 
 
 <img src="https://longyistar.github.io/longyi.jpg" class="floatpic" width="360" height="480">
 

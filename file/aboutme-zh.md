@@ -4,7 +4,7 @@ permalink: /file/aboutme-zh/index.html
 title: Aboutme-zh
 ---
 
-# 个人介绍
+## 个人介绍
 
 <img src="https://longyistar.github.io/longyi.jpg" class="floatpic" width="360" height="480">
 
