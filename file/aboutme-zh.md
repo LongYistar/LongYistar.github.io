@@ -4,11 +4,11 @@ permalink: /file/aboutme-zh/index.html
 title: Aboutme-zh
 ---
 
-# About Me 
+# 个人介绍
 
 <img src="https://longyistar.github.io/longyi.jpg" class="floatpic" width="360" height="480">
 
-> &nbsp; [English Version (英文)](https://longyistar.github.io/index/)
+> &nbsp; [English Version (英文)](https://longyistar.github.io/)
 <br>
 
 你好！我是**龙毅 (Yi Long)**.
