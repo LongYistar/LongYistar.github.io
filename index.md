@@ -33,7 +33,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Applied Machine Learning
 - [My latest research proposal](https://longyistar.github.io/file/.pdf)🔗
 
-My present research delves into the intricate interplay between the constructed environment and the everyday travel habits of children. I am deeply engaged in exploring the applications of **Machine Learning (ML)** and **Agent-Based Modeling (ABM)** within the realm of **Children's Travel Behavior**. In essence, sophisticated technologies such as ML and ABM have a profound impact on everyone's lives by reshaping our understanding of the built environment and its effects on children's travel patterns. I am committed to dedicating my expertise to this significant endeavor, aiming to enhance societal well-being through my research and its applications.
+My present research explores the relationship between the built environment and children's daily travel behavior. I am deeply engaged in exploring the applications of **Machine Learning (ML)** and **Agent-Based Modeling (ABM)** within the realm of **Children's Travel Behavior**. In essence, sophisticated technologies such as ML and ABM have a profound impact on everyone's lives by reshaping our understanding of the built environment and its effects on children's travel patterns. I am committed to dedicating my expertise to this significant endeavor, aiming to enhance societal well-being through my research and its applications.
 
 ---
 
