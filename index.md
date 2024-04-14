@@ -47,7 +47,7 @@ My present research explores the relationship between the built environment and 
 - **Dec 2021：**Collected the Mathematics Competition of Chinese College Students (Non-Mathematics Category) "Second Prize".
 - **Jul 2021：**Happy to be awarded the Sichuan Provincial College Student Comprehensive Quality A-Level Certificate.
 - **Nov 2020：**Collected the China Undergraduate Mathematical Contest in Modeling "National Second Prize".
-- **Nov 2020：**Collected the Sichuan Provincial College Students BIM Modeling Competition "First Prize" (Champion).
+- **Nov 2020：**Collected the Sichuan Provincial College Students Building Information Modeling Competition "First Prize" (Champion).
 - **June 2019：**Happy to be awarded the National Encouragement scholarship.
 - **Jun 2019：**Collected the 12th "Certification Cup" Mathematics China Online Challenge "Second Prize".
 

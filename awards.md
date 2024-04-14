@@ -19,7 +19,7 @@ title: Awards
 - Nov 2021：Excellence Award of the University Group in the 10th "Longtu Cup" National BIM Competition
 - May 2021：Third Prize in 23th Interdisciplinary Contest In Modeling Certificate of Achievement
 - Nov 2020：**<font color='red'>National Second Prize</font>** in Collected the China Undergraduate Mathematical Contest in Modeling
-- Nov 2020：**<font color='red'>First Prize</font>** in BIM Modeling Contest for College Students in Sichuan Province (**champion**)
+- Nov 2020：**<font color='red'>First Prize</font>** in Building Information Modeling Contest for College Students in Sichuan Province (**champion**)
 - Nov 2020：Excellence Award in 3th "Youlu Cup" National BIM Technology Competition
 - May 2020：Second Prize in 13th "Certification Cup" Mathematics China Online Challenge
 - May 2020：Third Prize in 22th Mathematical Contest In Modeling Certificate of Achievement
