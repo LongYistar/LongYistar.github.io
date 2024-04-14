@@ -16,7 +16,8 @@ title: Publications
 
 ## Meeting report
 
-- **Yi Long**, Yibin Ao(Mentor), Mingyang Li, Panyu Peng. Research on Low-carbon Travel from the Perspective of Children-friendly Facility Spatial Distribution. First Academic Seminar on Life Carbon Emissions and Sustainable Consumption. (2023)
+- **Yi Long**, Yibin Ao, Mingyang Li, Panyu Peng. Research on Low-carbon Travel from the Perspective of Children-friendly Facility Spatial Distribution. First Academic Seminar on Life Carbon Emissions and Sustainable Consumption. (2023)
+- **Yi Long**, Yinqiao Tao, Yibin Ao. Children's Travel Modes: Analysis Using Random Forest and Agent-Based Modeling. The World Transport Convention 2024 (WTC 2024)
 
   <br>
 
