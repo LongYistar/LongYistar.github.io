@@ -40,6 +40,7 @@ My present research explores the relationship between the built environment and 
 ## News and Updates
 
 - **Jun 2024：**Happy to have presented at the World Transport Convention 2024 (WTC 2024), in Qingdao, China.
+- **Apr 2024：**In Autumn 2023, Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar" was successfully concluded.
 - **Nov 2023：**Collected the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption Youth Academic Sub-Session Excellent Communication Report "Second Prize".
 - **Nov 2023：**Happy to have presented at the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption, in Chengdu, China.
 - **Jun 2023：**Happy to attend the First Academic Seminar on Neural Engineering Management, in Chongqing, China.
