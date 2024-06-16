@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /file/awards-zh/index.html
+permalink: /file/project-zh/index.html
 title: Project-zh
 ---
 
-> 更新时间：2024/04/10 &nbsp; [English Version (英文)](https://longyistar.github.io/awards/)
+> 更新时间：2024/04/10 &nbsp; [English Version (英文)](https://longyistar.github.io/project/)
 
 ## 综合奖学金
 
