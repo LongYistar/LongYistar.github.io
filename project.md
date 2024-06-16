@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /file/project-zh/index.html
+permalink: /project/index.html
 title: Project-zh
 ---
 
