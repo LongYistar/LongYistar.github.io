@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /project/index.html
-title: Project-zh
+title: Project
 ---
 
 > 更新时间：2024/04/10 &nbsp; [English Version (英文)](https://longyistar.github.io/project/)
