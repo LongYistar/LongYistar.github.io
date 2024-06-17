@@ -8,8 +8,12 @@ title: Publications-zh
 
 ## 期刊论文
 
-- [Li, H., Li, M., Peng, P., **Long, Y**., Ao, Y., & Bahmani, H. (2024). Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis. Frontiers in Public Health, 12, 1333510.](https://longyistar.github.io/mypaper/journal/fpubh-12-1333510.pdf)
-
+- **Yi Long**, Yibin Ao*, et al. (2024). Non-linear effects of children's daily travel distance on their travel mode choice considering different destinations[J]. Journal of Transport Geography.
+- [Li, H., Li, M., Peng, P., **Long, Y**., Ao, Y., & Bahmani, H. (2024). Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis[J]. Frontiers in Public Health, 12, 1333510.](https://longyistar.github.io/mypaper/journal/fpubh-12-1333510.pdf)
+Peer-reviewed journal articles
+- **Yi Long**, Yibin Ao*, et al. (2024). Non-linear effects of the neighborhood-built environment on children’s daily travel mode choice[J]. Children's Geographies. 
+- **Yi Long**, Yuxin Tang, Yibin Ao*, et al. (2024). Children’s Perceptions of Road Environments in Urban-Rural Fringe Areas[J]. Journal of Transport & Health.
+- 敖仪斌*, **龙毅**, 唐雨欣(2024). 儿童日常出行行为非线性特征年龄异质性研究[J]. 科技导报.
 <br>
 
 ## 会议报告
