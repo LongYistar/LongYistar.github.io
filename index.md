@@ -22,7 +22,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2022 - June 2025:** Chengdu University of Technology (Master of Civil Engineering and Water Conservancy, supervised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305))
 - **Sep 2018 - June 2022:** Jinjiang College of Sichuan University (BEng, Engineering cost major)
 
-
 ---
 
 ## Research Interests
@@ -31,15 +30,21 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Travel behavior
 - Agent-based modeling
 - Applied Machine Learning
-- [My latest research proposal](https://longyistar.github.io/file/.pdf)🔗
 
-My present research explores the relationship between the built environment and children's daily travel behavior. I am deeply engaged in exploring the applications of **Machine Learning (ML)** and **Agent-Based Modeling (ABM)** within the realm of **Children's Travel Behavior**. In essence, sophisticated technologies such as ML and ABM have a profound impact on everyone's lives by reshaping our understanding of the built environment and its effects on children's travel patterns. I am committed to dedicating my expertise to this significant endeavor, aiming to enhance societal well-being through my research and its applications.
+Research 1 **Built Environment and Travel Behaviour**
+Applying machine learning techniques and Agent-based modeling (ABM), we study the non-linear relationship between factors such as built environment, travel distance and age and travel behaviour, and explore the influence of travel distance on travel behaviour decisions. Based on this research direction, four papers have been completed, of which one has been published.
+Research 2 **Environmental Assessment**
+Using IPA-TOPSIS joint modelling to assess children's satisfaction and improvement needs for four different road environments in urban-rural areas. One relevant paper has been completed.
+Research 3 **Travel Behaviour Resilience under Disasters**
+We intend to analyse the travel behaviour resilience under disasters through mobile phone signaling and other big data, and explore the travel patterns and their coping strategies under disaster situations, and are currently analysing the data of shared bicycles in Shenzhen, and plan to publish related papers.
 
 ---
 
 ## News and Updates
 
+- **Sep 2024：**Collected the Outstanding Paper at the Annual Meeting of the China Society of Territorial Economics, 2024.
 - **Jun 2024：**Happy to have presented at the World Transport Convention 2024 (WTC 2024), in Qingdao, China.
+- **Jun 2024：**The paper ‘Non-linear effects of children’s daily travel distance on their travel mode choice considering different destinations’ was successfully published by the Journal of Transport Geography.
 - **Apr 2024：**In Autumn 2023, Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar" was successfully concluded.
 - **Nov 2023：**Collected the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption Youth Academic Sub-Session Excellent Communication Report "Second Prize".
 - **Nov 2023：**Happy to have presented at the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption, in Chengdu, China.
