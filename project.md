@@ -4,24 +4,23 @@ permalink: /project/index.html
 title: Project
 ---
 
-> 更新时间：2024/04/10 &nbsp; [English Version (英文)](https://longyistar.github.io/project/)
+> Lastest Update: 2024/10/07 &nbsp; [中文版本 (Chinese Version)](https://longyistar.github.io/file/project-zh/)
 
-## 科研项目
+## Research Projects
 
-- 《多元复杂居住满意度视角下农村建成环境形成机理、测度方法及治理策略研究》——国家自然科学基金委面上项目————参与
-- 《多源数据驱动的多尺度建成环境与村民空间移动耦合机理及智能优化研究》——中国博士后科学基金特别资助————参与
-- 《基于数孪生技术的农村健康养老多尺度建成环境优化决策研究》——中国博士后科学基金面上项目————参与
-- 《学校建成环境对青少年心理健康的影响关系研究》——四川省心理健康教育研究中心重点项目————参与
-- 《乡村振兴背景下儿童友好通学建成环境评价与治理研究》——四川省儿童保护与发展研究中心————参与
-- 《儿童福利救助机构现状与发展研究》——四川省儿童保护与发展研究中心————参与
-- 《四川建成环境对地质灾害应急行为的影响机理及减灾策略研究》——四川省高等学校人文社会科学重点研究基地科研创新培养项目————参与
-- 《乡村振兴背景下儿童友好通学建成环境评价与治理研究》——四川省儿童保护与发展研究中心————参与
-- 《乡村振兴背景下农村可持续养老模式探讨》——四川省社会科学重点研究基地老龄事业与产业发展研究中心————参与
-- 《可持续发展理念下公园城市儿童友好宜居水平提升研究》——成都公园城市示范区建设研究中心————参与
-- 《成都中小学生心理健康现状及其优化措施研究》——成都市哲学社会科学“教育综合改革试验基地”————参与
-- 《基于数字孪生技术的城乡居家养老公园环境优化决策研究》——成都公园城市示范区建设研究中心————参与
-- 《成都市儿童友好社区建设调研》——四川省儿童保护与发展研究中心————参与
-- 《四川省成都市简阳市农业农村局农村人居环境整治考核服务项目》——四川省农业农村局————参与
+- 《Research on the Mechanism of Rural Built Environment Formation, Measurement Methods and Governance Strategies from the Perspective of Multiple and Complex Residence Satisfaction》——National Natural Science Foundation of China——Participation
+- 《Research on the Mechanism and Intelligent Optimisation of Multi-scale Coupling of Built Environment and Villagers' Spatial Movements Driven by Multi-source Data》——Special Funding of China Postdoctoral Science Foundation——Participation
+- 《Research on Optimisation Decision Making of Multi-scale Built Environment for Rural Healthy Elderly Care Based on Digital Twin Technique》——A Top-level Project of China Postdoctoral Science Foundation——Participation
+- 《Research on the Influence of School Built Environment on Adolescents' Mental Health》——Sichuan Mental Health Education Research Centre——Participation
+- 《Discussion on Sustainable Rural Elderly Care Mode in the Context of Rural Revitalisatio》——Research Centre for Aging Career and Industrial Development, Sichuan Key Research Base of Social Sciences——Participation
+- 《Research on the Evaluation and Governance of Child-Friendly School Built Environment in the Context of Rural Revitalisation》—— Research Centre for Child Protection and Development of Sichuan Province——Participation
+- 《Study on the Current Situation and Development of Child Welfare and Aid Institutions》——Sichuan Research Centre for Child Protection and Development——Participation
+- 《Study on the Influence Mechanism of Sichuan Built Environment on Emergency Behaviour in Geological Disasters and Disaster Reduction Strategies》—— Research and Innovation Training Project of Key Research Base of Humanities and Social Sciences of Higher Educational Institutions in Sichuan Province——Participation
+- 《Study on the Enhancement of Child-Friendly Livability in Park Cities under the Concept of Sustainable Development》——Research Centre for the Construction of Park City Demonstration Area in Chengdu——Participation
+- 《Study on the Current Situation of Mental Health of Primary and Secondary School Students in Chengdu and Its Optimisation Measures》——Chengdu Philosophy and Social Science ‘Comprehensive Reform Pilot Base of Education’——Participation
+- 《Research on Optimising Decision Making in Urban and Rural Home Care Park Environment Based on Digital Twin Technology》——Chengdu Park City Demonstration Zone Construction Research Centre——Participation
+- 《Research on the Construction of Child-Friendly Community in Chengdu City》——Chengdu Park City Demonstration Zone Construction Research Centre——Participation
+- 《Rural Habitat Environment Improvement Assessment Service Project of the Bureau of Agriculture and Rural Development of Jianyang City, Chengdu, Sichuan Province》——Sichuan Bureau of Agriculture and Rural Development——Participation
 
 ## 科研经历
 
