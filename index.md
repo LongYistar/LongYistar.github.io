@@ -28,11 +28,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - Built environment, Travel behavior, Agent-based modeling, Applied Machine Learning
 
-- Research 1 **Built Environment and Travel Behaviour**
+- Research 1 **Built Environment and Travel Behaviour**: 
 Applying machine learning techniques and Agent-based modeling (ABM), we study the non-linear relationship between factors such as built environment, travel distance and age and travel behaviour, and explore the influence of travel distance on travel behaviour decisions. Based on this research direction, four papers have been completed, of which one has been published.
-- Research 2 **Environmental Assessment**
+- Research 2 **Environmental Assessment**: 
 Using IPA-TOPSIS joint modelling to assess children's satisfaction and improvement needs for four different road environments in urban-rural areas. One relevant paper has been completed.
-- Research 3 **Travel Behaviour Resilience under Disasters**
+- Research 3 **Travel Behaviour Resilience under Disasters**: 
 We intend to analyse the travel behaviour resilience under disasters through mobile phone signaling and other big data, and explore the travel patterns and their coping strategies under disaster situations, and are currently analysing the data of shared bicycles in Shenzhen, and plan to publish related papers.
 
 ---
