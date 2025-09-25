@@ -4,7 +4,7 @@ layout: page
 
 ## About Me 
 
-<img src="https://longyistar.github.io/longyi3.jpg" class="floatpic" width="360" height="480">
+<img src="https://longyistar.github.io/longyi.png" class="floatpic" width="360" height="480">
 
 > &nbsp; [中文版本 (Chinese Version)](https://longyistar.github.io/file/aboutme-zh/)
 <br>
@@ -19,8 +19,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
 
+- **Sep 2025 - June 2029:** Tongji University (Doctor of Urban Mobility, supervised by [Shaozhi Hong](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043))
 - **Sep 2022 - June 2025:** Chengdu University of Technology (Master of Civil Engineering and Water Conservancy, supervised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305))
-- **Sep 2018 - June 2022:** Jinjiang College of Sichuan University (BEng, Engineering cost major)
 
 ---
 
