@@ -4,16 +4,16 @@ layout: page
 
 ## About Me 
 
-<img src="https://longyistar.github.io/longyi.jpg" class="floatpic" width="360" height="480">
+<img src="https://longyistar.github.io/longyi3.jpg" class="floatpic" width="360" height="480">
 
 > &nbsp; [中文版本 (Chinese Version)](https://longyistar.github.io/file/aboutme-zh/)
 <br>
 
 Here is **Yi Long (龙毅)**.
 
-I am a graduate student majoring in Civil Engineering and Water Conservancy in College of Environment and Civil Engineering, Chengdu University of Technology, Grade 2022. Advised by [Prof. Yibin Ao](https://hgycg.cdut.edu.cn/teacher/10201402305)
+I am a PhD candidate in urban transportation of Tongji University, Grade 2025. Advised by [Shaozhi Hong](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043)
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *longyi@stu.cdut.edu.cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *longyi.cn@outlook.com*
 
 ## Academic Background
 
