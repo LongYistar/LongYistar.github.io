@@ -4,11 +4,16 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 2024/10/07&nbsp;  [中文版本 (Chinese Version)](https://longyistar.github.io/file/publications-zh/)
+> Lastest Update: 2025/09/07&nbsp;  [中文版本 (Chinese Version)](https://longyistar.github.io/file/publications-zh/)
 
 ## Journal Paper
 
-- [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, Homa Bahmani. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis. Frontiers in Public Health12. (2024): 1333510.](https://longyistar.github.io/mypaper/journal/fpubh-12-1333510.pdf)
+- [**Yi Long**, Yibin Ao*, Haimei Li*, et al., 2024. Non-linear effects of children’s daily travel distance on their travel mode choice considering different destinations[J]. Journal of Transport Geography, 118: 103921.](https://doi.org/10.1016/j.jtrangeo.2024.103921)
+- [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, et al., 2024. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis. Frontiers in Public Health, 12: 1333510](https://doi.org/10.3389/fpubh.2024.1333510)
+- [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, et al., 2024. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis. Frontiers in Public Health, 12: 1333510](https://doi.org/10.3389/fpubh.2024.1333510)
+- [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, et al., 2024. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis. Frontiers in Public Health, 12: 1333510](https://doi.org/10.3389/fpubh.2024.1333510)
+- [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, et al., 2024. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis. Frontiers in Public Health, 12: 1333510](https://doi.org/10.3389/fpubh.2024.1333510)
+- [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, et al., 2024. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis[J]. Frontiers in Public Health, 12: 1333510](https://doi.org/10.3389/fpubh.2024.1333510)
 - [**Yi Long**, Yibin Ao, Haimei Li, Homa Bahmani, Mingyang Li. Non-linear effects of children's daily travel distance on their travel mode choice considering different destinations. Journal of Transport Geography. 118 (2024): 103921.](https://longyistar.github.io/mypaper/journal/JTG-2024.pdf)
 - **Working paper**
 - **Yi Long**, Yibin Ao, Haimei Li, Homa Bahmani, Mingyang Li. Non-linear effects of the neighborhood-built environment on children’s daily travel mode choice.
