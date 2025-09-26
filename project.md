@@ -22,15 +22,8 @@ title: Project
 - 《Research on the Construction of Child-Friendly Community in Chengdu City》——Chengdu Park City Demonstration Zone Construction Research Centre——Participation
 - 《Rural Habitat Environment Improvement Assessment Service Project of the Bureau of Agriculture and Rural Development of Jianyang City, Chengdu, Sichuan Province》——Sichuan Bureau of Agriculture and Rural Development——Participation
 
-## 科研经历
+## Research experience
 
-- 参加2023年秋季清华大学交叉学科研究能力提升计划“大数据与因果推断研讨班”，提交论文顺利结课。论文题目：《儿童出行方式选择的影响因素分析：结合机器学习与智能体模拟的出行距离研究》。
- 
-## 实习经历
+- In Autumn 2023, participated in the Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar", and submitted the paper and completed the course successfully. Paper Title: "Analysis of Influencing Factors on Children's Travel Mode Choices: A Study on Travel Distance Combining Machine Learning and Agent Simulation"
+- In Autumn 2024, participated in the Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar", and submitted the paper and completed the course successfully. Paper Title: "Thermal performance of post-disaster housing and its impact on occupant comfort: An integrated ML-ABM approach"
 
-- 2023.09-2025.06: 四川发展环境科学技术研究院有限公司————考评员
-- 2020.01-2020.05：乐山市滨河路装配式道路改造工程BIM综合应用——上海城建市政工程(集团)有限公司————项目主要成员
-- 2020.03-2020.05：天府新区创意路景观桥梁、管廊工程BIM综合应用——中国五冶集团有限公司————项目主要成员
-- 2020.06-2020.08：宜宾市翠屏山景观建筑BIM综合应用——中国五冶集团有限公司————项目主要成员
-- 2020.07-2020.08：四川宝华项目管理有限公司————实习生
-- 2019.07-2019.08：达州市宣汉县马渡关镇人民政府————党政办实习生
