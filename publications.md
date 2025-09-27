@@ -7,6 +7,7 @@ title: Publications
 > Lastest Update: 2025/09/07&nbsp;  [中文版本 (Chinese Version)](https://longyistar.github.io/file/publications-zh/)
 
 ## Journal Paper
+
 - [**Yi Long**, Yibin Ao*, Haimei Li*, et al., 2024. Non-linear effects of children’s daily travel distance on their travel mode choice considering different destinations[J]. Journal of Transport Geography, 118: 103921.](https://doi.org/10.1016/j.jtrangeo.2024.103921)
 - [Yibin Ao, **Yi Long**, Junjie Zheng*, et al., 2025. The influence of rural built environment on residents’ non-commuting travel mode choices[J]. Journal of Transport Geography, 128: 104330.](https://doi.org/10.1016/j.jtrangeo.2025.104330)
 - [Yibin Ao, **Yi Long***, Yuxin Tang, et al., 2025. The nonlinear relationship between age and children's daily travel behavior[J]. Science & Technology Review, 43(6): 65-73.](https://doi.org/10.3981/j.issn.1000-7857.2024.04.00321)
@@ -17,10 +18,12 @@ title: Publications
 - [Homa Bahmani, Yibin Ao*, Dujuan Yang, Dongpo Wang, Mingyang Li, **Yi Long**, et al., 2024 Implications for improving evacuation safety in primary school corridors: a video-based analysis on evacuees’ speed and density[J]. Engineering, Construction and Architectural Management.](https://doi.org/10.1108/ECAM-01-2024-0017)
 - [Mingyang Li, Panyu Peng, Hao Zhu, Yibin Ao*, Zhongli Zhou, **Yi Long**, et al., 2025 Assessing the gap: Resource efficiency of institutionalized elderly care in urban and rural China[J]. Public Health, 238: 45-52.](https://doi.org/10.1016/j.puhe.2024.11.017)
 - **Working paper**
+
 - **Yi Long**, Yibin Ao*, Mingyang Li, et al. The influence of neighborhood environments on children’s travel mode choices: An XGBoost/SHAP model analysis of Shuangliu District, Chengdu, China[J]. Transport Policy.
   <br>
 ---
 ## Meeting report
+
 - **Yi Long**, Yibin Ao, et al. Research on Low-carbon Travel from the Perspective of Children-friendly Facility Spatial Distribution. First Academic Seminar on Life Carbon Emissions and Sustainable Consumption. (2023)
 - **Yi Long**, Yinqiao Tao, Yibin Ao. Children's Travel Modes: Analysis Using Random Forest and Agent-Based Modeling. The World Transport Convention 2024 (WTC 2024)
 - **Yi Long**, Yinqiao Tao, Yibin Ao. Combining machine learning and agent modeling to simulate the impact of travel distance on children's choice of travel mode: A Case Study of Shuangliu District, Chengdu City. Annual Academic Seminar of the China Society of Territorial Economics 2024.
@@ -29,6 +32,7 @@ title: Publications
   <br>
 ---
 ## Thesis
+
 - **Yi Long**, Qimiao Xie(tutor). Development and Application of a Lightweight Platform for Building Information Modeling. Undergrad Thesis. (2022)
 - **Yi Long**, Yibin Ao(tutor). Nonlinear Effects of Neighborhood-Built Environment on Children's Travel Behavior in Urban-Rural Fringe Areas. Master's Thesis. (2025)
   <br>

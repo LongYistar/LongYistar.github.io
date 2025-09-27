@@ -23,6 +23,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2022 - June 2025:** Chengdu University of Technology (Master of Civil Engineering and Water Conservancy, supervised by [Prof. Yibin Ao](https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm))
 ---
 ## Research Interests
+
 - Built environment, Travel behavior, Agent-based modeling, Applied machine learning, Resilience
 
 - Research 1 **Built environment and travel behaviour**: 
@@ -33,6 +34,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - This research focuses on enhancing urban energy resilience by linking the built environment with electric vehicle charging infrastructure and adopting cross-sectoral system optimization to support low-carbon and sustainable urban development.
 ---
 ## News and Updates
+
 - **Jul 2025:** In Autumn 2024, Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar" was successfully concluded.
 - **Jun 2025:** Paper 'The influence of rural built environment on residents' non-commuting travel mode choices' was successfully published by the Journal of Transport Geography.
 - **Mar 2025:** Paper 'The nonlinear relationship between age and children's daily travel behavior' was successfully published by the Science & Technology Review.
