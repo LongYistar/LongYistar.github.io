@@ -13,7 +13,7 @@ title: Aboutme-zh
 
 你好！我是**龙毅 (Yi Long)**.
 
-正在攻读同济大学城市交通博士学位,导师是 [洪少枝老师](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043)
+正在攻读同济大学城市交通博士学位,导师是 [洪少枝](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043)
 
 如果您对我的任何方面感兴趣，欢迎交流合作，互通有无，电子邮件 - *longyi.cn@outlook.com*
 
@@ -21,7 +21,7 @@ title: Aboutme-zh
 
 **<font color='red'>[亮点]</font> 目前正在积极寻求csc资助的联合博士项目或访问学者职位的机会，以进一步推进我的学术研究和国际合作。倘若您有合适的机会，希望能向您取得联系!**
 
-- **2025/09 - 2029/06:** 同济大学城市交通博士,导师 [洪少枝老师](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043)
+- **2025/09 - 2029/06:** 同济大学城市交通博士,导师 [洪少枝](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043)
 - **2022/09 - 2025/06:** 成都理工大学土木水利硕士,导师 [敖仪斌教授](https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm)
 
 ## 研究方向

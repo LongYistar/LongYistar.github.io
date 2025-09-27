@@ -11,7 +11,7 @@ layout: page
 
 Here is **Yi Long (龙毅)**.
 
-I am a PhD candidate in urban transportation of Tongji University, Grade 2025. Advised by [Shaozhi Hong](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043)
+I am a PhD student in Urban Mobility institute of Tongji University, Grade 2025. Advised by [Shaozhi Hong](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043)
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *longyi.cn@outlook.com*
 
