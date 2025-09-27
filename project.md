@@ -24,6 +24,6 @@ title: Project
 
 ## Research experience
 
-- In Autumn 2023, participated in the Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar", and submitted the paper and completed the course successfully. Paper Title: "Analysis of Influencing Factors on Children's Travel Mode Choices: A Study on Travel Distance Combining Machine Learning and Agent Simulation"
-- In Autumn 2024, participated in the Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar", and submitted the paper and completed the course successfully. Paper Title: "Thermal performance of post-disaster housing and its impact on occupant comfort: An integrated ML-ABM approach"
+- In Autumn 2023, participated in the Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar", and submitted the paper and completed the course successfully.
+- In Autumn 2024, participated in the Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar", and submitted the paper and completed the course successfully.
 

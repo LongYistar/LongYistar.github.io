@@ -55,6 +55,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Jul 2021:** Happy to be awarded the Sichuan Provincial College Student Comprehensive Quality A-Level Certificate.
 - **Nov 2020:** Collected the China Undergraduate Mathematical Contest in Modeling "National Second Prize".
 - **Nov 2020:** Collected the Sichuan Provincial College Students Building Information Modeling Competition "First Prize" (Champion).
-- **Jun 2019:** Happy to be awarded the National Encouragement scholarship.
+- **Oct 2019:** Happy to be awarded the National Encouragement scholarship.
 
 

@@ -37,16 +37,19 @@ title: Aboutme-zh
 
 ## 动态
 
-- **2024/06：**获得2024中国国土经济学会年会优秀论文
-- **2024/06：**在中国青岛举办的2024年世界运输大会(WTC 2024)做交流报告
-- **2024/06：**论文《Non-linear effects of children’s daily travel distance on their travel mode choice considering different destinations》顺利被《Journal of Transport Geography》期刊接收发表.
-- **2024/04：**[2023年秋季清华交叉学科研究能力提升计划“大数据与因果推断研讨班”顺利结课](https://longyistar.github.io/mypaper/project/Course_completion_certificate.pdf)🔗
-- **2023/11：**获得第一届生活碳排放与可持续消费学术研讨会青年学术分会优秀交流报告二等奖
-- **2023/06：**参加在中国重庆举办的第一届神经工程管理学术研讨会
-- **2023/05：**获得第九届全国大学生能源经济学术创意大赛四川赛区“三等奖”
-- **2021/12：**获得中国大学生数学竞赛（非数学类）“二等奖”
-- **2021/07：**被授予四川省大学生综合素质A级证书
-- **2020/11：**获得中国大学生数学建模竞赛“全国二等奖”
-- **2020/11：**获得四川省大学生BIM建模竞赛“一等奖”（冠军）
-- **2019/09：**获得国家励志奖学金。
-- **2019/06：**获得第十二届“认证杯”数学中国网络挑战赛“二等奖”。
+- **2025/07:** 2024年秋季清华交叉学科研究能力提升计划“大数据与因果推断研讨班”顺利结课
+- **2025/06:** 论文《The influence of rural built environment on residents' non-commuting travel mode choices》顺利被《Journal of Transport Geography》期刊接收发表
+- **2025/03:** 论文《年龄与儿童日常出行行为的非线性关系》顺利被《科技导报》期刊接收发表
+- **2024/11:** 在中国绵阳举办的高质量城镇发展与美丽乡村建设大会做交流报告
+- **2014/10:** 获得研究生国家奖学金
+- **2024/09:** 获得2024中国国土经济学会年会优秀论文
+- **2024/06:** 在中国青岛举办的2024年世界运输大会(WTC 2024)做交流报告
+- **2024/06:** 论文《Non-linear effects of children’s daily travel distance on their travel mode choice considering different destinations》顺利被《Journal of Transport Geography》期刊接收发表
+- **2024/04:** [2023年秋季清华交叉学科研究能力提升计划“大数据与因果推断研讨班”顺利结课](https://longyistar.github.io/mypaper/project/Course_completion_certificate.pdf)🔗
+- **2023/11:** 获得第一届生活碳排放与可持续消费学术研讨会青年学术分会优秀交流报告二等奖
+- **2023/06:** 参加在中国重庆举办的第一届神经工程管理学术研讨会
+- **2021/12:** 获得中国大学生数学竞赛（非数学类）“二等奖”
+- **2021/07:** 被授予四川省大学生综合素质A级证书
+- **2020/11:** 获得中国大学生数学建模竞赛“全国二等奖”
+- **2020/11:** 获得四川省大学生BIM建模竞赛“一等奖”（冠军）
+- **2019/10:** 获得国家励志奖学金

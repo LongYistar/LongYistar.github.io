@@ -8,11 +8,10 @@ title: Awards
 
 ## Scholarships
 
-- Oct  2024: First Prize of Postgraduate Academic Scholarship
-- Oct  2024: National Scholarship for Postgraduate Students
-- JunE 2021：First Prize Of Outstanding student scholarship
-- June 2019：Third Prize Of Outstanding student scholarship
-- June 2019：National Encouragement scholarship
+- Oct 2024: First Prize of Postgraduate Academic Scholarship
+- Oct 2024: National Scholarship for Postgraduate Students
+- Oct 2021：First Prize Of Outstanding student scholarship
+- Oct 2019：National Encouragement scholarship
 
 ## Competitions
 
@@ -26,6 +25,7 @@ title: Awards
 
 ## Honors
 
+- Sep 2024: Outstanding Paper at the Annual Academic Seminar of the China Society of Territorial Economics, 2024.
 - Nov 2023：Second Prize of the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption Youth Academic Sub-Session Excellent Communication Report
 - Jul 2021：Sichuan Provincial College Student Comprehensive Quality A-Level Certificate
 
