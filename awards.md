@@ -10,8 +10,8 @@ title: Awards
 
 - Oct 2024: First Prize of Postgraduate Academic Scholarship
 - Oct 2024: National Scholarship for Postgraduate Students
-- Oct 2021：First Prize Of Outstanding student scholarship
-- Oct 2019：National Encouragement scholarship
+- Oct 2021: First Prize Of Outstanding student scholarship
+- Oct 2019: National Encouragement scholarship
 
 ## Competitions
 
