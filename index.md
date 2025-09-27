@@ -21,7 +21,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2025 - June 2029:** Tongji University (Doctor of Urban Mobility, supervised by [Shaozhi Hong](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043))
 - **Sep 2022 - June 2025:** Chengdu University of Technology (Master of Civil Engineering and Water Conservancy, supervised by [Prof. Yibin Ao](https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm))
----
+<br>
 ## Research Interests
 
 - Built environment, Travel behavior, Agent-based modeling, Applied machine learning, Resilience
@@ -32,7 +32,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - We intend to analyse the travel behaviour resilience under disasters through large-scale data, and explore the travel patterns and their coping strategies under disaster situations.
 - Research 3 **Built environment, EV charging infrastructure, and urban energy resilience**:
 - This research focuses on enhancing urban energy resilience by linking the built environment with electric vehicle charging infrastructure and adopting cross-sectoral system optimization to support low-carbon and sustainable urban development.
----
+<br>
 ## News and Updates
 
 - **Jul 2025:** In Autumn 2024, Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar" was successfully concluded.

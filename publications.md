@@ -21,7 +21,6 @@ title: Publications
 
 - **Yi Long**, Yibin Ao*, Mingyang Li, et al. The influence of neighborhood environments on children’s travel mode choices: An XGBoost/SHAP model analysis of Shuangliu District, Chengdu, China[J]. Transport Policy.
   <br>
----
 ## Meeting report
 
 - **Yi Long**, Yibin Ao, et al. Research on Low-carbon Travel from the Perspective of Children-friendly Facility Spatial Distribution. First Academic Seminar on Life Carbon Emissions and Sustainable Consumption. (2023)
@@ -30,7 +29,6 @@ title: Publications
 - Yuxin Tang, **Yi Long**，Yibin Ao. Research on the Nonlinear Relationship between the Built Environment of Neighborhoods in Urban-Rural Fringe Areas and Children's Travel Distance. Annual Academic Seminar of the China Society of Territorial Economics 2024.
 - **Yi Long**, Mingyang Li, Panyu Peng, Yibin Ao*, et al. Spatial Distribution of Child-Friendly Facilities and Its Influence on Low-Carbon Travel in Urban Planning. conference on High-Quality urban development and beautiful countryside construction. (2024)
   <br>
----
 ## Thesis
 
 - **Yi Long**, Qimiao Xie(tutor). Development and Application of a Lightweight Platform for Building Information Modeling. Undergrad Thesis. (2022)
