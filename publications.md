@@ -17,10 +17,11 @@ title: Publications
 - [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, et al., 2024. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis[J]. Frontiers in Public Health, 12: 1333510](https://doi.org/10.3389/fpubh.2024.1333510)
 - [Homa Bahmani, Yibin Ao*, Dujuan Yang, Dongpo Wang, Mingyang Li, **Yi Long**, et al., 2024 Implications for improving evacuation safety in primary school corridors: a video-based analysis on evacuees’ speed and density[J]. Engineering, Construction and Architectural Management.](https://doi.org/10.1108/ECAM-01-2024-0017)
 - [Mingyang Li, Panyu Peng, Hao Zhu, Yibin Ao*, Zhongli Zhou, **Yi Long**, et al., 2025 Assessing the gap: Resource efficiency of institutionalized elderly care in urban and rural China[J]. Public Health, 238: 45-52.](https://doi.org/10.1016/j.puhe.2024.11.017)
-- **Working paper**
+
+**Working paper**
 
 - **Yi Long**, Yibin Ao*, Mingyang Li, et al. The influence of neighborhood environments on children’s travel mode choices: An XGBoost/SHAP model analysis of Shuangliu District, Chengdu, China[J]. Transport Policy.
-  <br>
+
 ## Meeting report
 
 - **Yi Long**, Yibin Ao, et al. Research on Low-carbon Travel from the Perspective of Children-friendly Facility Spatial Distribution. First Academic Seminar on Life Carbon Emissions and Sustainable Consumption. (2023)
@@ -28,9 +29,9 @@ title: Publications
 - **Yi Long**, Yinqiao Tao, Yibin Ao. Combining machine learning and agent modeling to simulate the impact of travel distance on children's choice of travel mode: A Case Study of Shuangliu District, Chengdu City. Annual Academic Seminar of the China Society of Territorial Economics 2024.
 - Yuxin Tang, **Yi Long**，Yibin Ao. Research on the Nonlinear Relationship between the Built Environment of Neighborhoods in Urban-Rural Fringe Areas and Children's Travel Distance. Annual Academic Seminar of the China Society of Territorial Economics 2024.
 - **Yi Long**, Mingyang Li, Panyu Peng, Yibin Ao*, et al. Spatial Distribution of Child-Friendly Facilities and Its Influence on Low-Carbon Travel in Urban Planning. conference on High-Quality urban development and beautiful countryside construction. (2024)
-  <br>
+
 ## Thesis
 
 - **Yi Long**, Qimiao Xie(tutor). Development and Application of a Lightweight Platform for Building Information Modeling. Undergrad Thesis. (2022)
 - **Yi Long**, Yibin Ao(tutor). Nonlinear Effects of Neighborhood-Built Environment on Children's Travel Behavior in Urban-Rural Fringe Areas. Master's Thesis. (2025)
-  <br>
+

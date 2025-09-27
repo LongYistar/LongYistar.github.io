@@ -17,7 +17,7 @@ title: Publications-zh
 - [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, et al., 2024. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis[J]. Frontiers in Public Health, 12: 1333510](https://doi.org/10.3389/fpubh.2024.1333510)
 - [Homa Bahmani, Yibin Ao*, Dujuan Yang, Dongpo Wang, Mingyang Li, **Yi Long**, et al., 2024 Implications for improving evacuation safety in primary school corridors: a video-based analysis on evacuees’ speed and density[J]. Engineering, Construction and Architectural Management.](https://doi.org/10.1108/ECAM-01-2024-0017)
 - [Mingyang Li, Panyu Peng, Hao Zhu, Yibin Ao*, Zhongli Zhou, **Yi Long**, et al., 2025 Assessing the gap: Resource efficiency of institutionalized elderly care in urban and rural China[J]. Public Health, 238: 45-52.](https://doi.org/10.1016/j.puhe.2024.11.017)
-<br>
+
 ## 会议报告
 
 - **龙毅**，敖仪斌，李明洋，. 儿童友好设施空间分布视角下低碳出行研究. 第一届生活碳排放与可持续消费学术研讨会. (2023)
@@ -25,9 +25,8 @@ title: Publications-zh
 - **龙毅**，陶垠桥，敖仪斌. 结合机器学习与智能体建模模拟出行距离对儿童出行方式选择的影响——以成都市双流区为例. 2024中国国土经济学会学术年会.
 - 唐雨欣，**龙毅**，敖仪斌. 城乡结合部邻里建成环境与儿童出行距离的非线性关系研究. 2024中国国土经济学会学术年会.
 - **龙毅**，李明洋， 彭攀宇，敖仪斌*，等. Spatial Distribution of Child-Friendly Facilities and Its Influence on Low-Carbon Travel in Urban Planning. conference on High-Quality urban development and beautiful countryside construction. (2024)
-<br>
+
 ## 毕业论文
 
 - **龙毅**，谢奇妙(导师). BIM模型轻量化平台开发与应用. 本科毕业设计论文.(2022)
 - **龙毅**，敖仪斌(导师). 城乡结合部邻里建成环境对儿童出行行为的非线性影响研究. 硕士研究生毕业论文. (2025)
-<br>

@@ -21,7 +21,7 @@ title: Project
 - 《Research on Optimising Decision Making in Urban and Rural Home Care Park Environment Based on Digital Twin Technology》——Chengdu Park City Demonstration Zone Construction Research Centre——Participation
 - 《Research on the Construction of Child-Friendly Community in Chengdu City》——Chengdu Park City Demonstration Zone Construction Research Centre——Participation
 - 《Rural Habitat Environment Improvement Assessment Service Project of the Bureau of Agriculture and Rural Development of Jianyang City, Chengdu, Sichuan Province》——Sichuan Bureau of Agriculture and Rural Development——Participation
-<br>
+
 ## Research experience
 
 - In Autumn 2023, participated in the Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar", and submitted the paper and completed the course successfully.
