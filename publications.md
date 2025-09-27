@@ -15,8 +15,8 @@ title: Publications
 - [Panyu Peng, Mingyang Li, **Yi Long**, et al., 2025. Application and challenges of information technology in disaster prevention, mitigation, and relief systems[J]. Science & Technology Review, 43(15): 61−70.](https://doi.org/10.3981/j.issn.1000-7857.2024.06.00644)
 - [Yanan Liu, Yibin Ao*, Li Han, **Yi Long**, 2024. Rural parents’ route choices under different modes for school children drop-off and pick-up: a stated choice experiment[J]. Transportation Planning and Technology, 1-20.](https://doi.org/10.1080/03081060.2024.2436948)
 - [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, et al., 2024. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis[J]. Frontiers in Public Health, 12: 1333510](https://doi.org/10.3389/fpubh.2024.1333510)
-- [Homa Bahmani, Yibin Ao*, Dujuan Yang, Dongpo Wang, Mingyang Li, **Yi Long**, et al., 2024 Implications for improving evacuation safety in primary school corridors: a video-based analysis on evacuees’ speed and density[J]. Engineering, Construction and Architectural Management.](https://doi.org/10.1108/ECAM-01-2024-0017)
-- [Mingyang Li, Panyu Peng, Hao Zhu, Yibin Ao*, Zhongli Zhou, **Yi Long**, et al., 2025 Assessing the gap: Resource efficiency of institutionalized elderly care in urban and rural China[J]. Public Health, 238: 45-52.](https://doi.org/10.1016/j.puhe.2024.11.017)
+- [Homa Bahmani, Yibin Ao*, Dujuan Yang, Dongpo Wang, Mingyang Li, **Yi Long**, et al., 2024. Implications for improving evacuation safety in primary school corridors: a video-based analysis on evacuees’ speed and density[J]. Engineering, Construction and Architectural Management.](https://doi.org/10.1108/ECAM-01-2024-0017)
+- [Mingyang Li, Panyu Peng, Hao Zhu, Yibin Ao*, Zhongli Zhou, **Yi Long**, et al., 2025. Assessing the gap: Resource efficiency of institutionalized elderly care in urban and rural China[J]. Public Health, 238: 45-52.](https://doi.org/10.1016/j.puhe.2024.11.017)
 
 **Working paper**
 
