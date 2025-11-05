@@ -35,6 +35,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Updates
 
+- **Nov 2025:** Paper 'The influence of neighborhood environments on children's travel mode choices: An XGBoost/SHAP model analysis of Shuangliu District, Chengdu, China' was successfully accept by the transport policy.
 - **Jul 2025:** In Autumn 2024, Tsinghua Interdisciplinary Research Ability Enhancement Program "Big Data and Causal Inference Seminar" was successfully concluded.
 - **Jun 2025:** Paper 'The influence of rural built environment on residents' non-commuting travel mode choices' was successfully published by the Journal of Transport Geography.
 - **Mar 2025:** Paper 'The nonlinear relationship between age and children's daily travel behavior' was successfully published by the Science & Technology Review.
