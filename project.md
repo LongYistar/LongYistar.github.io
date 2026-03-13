@@ -6,8 +6,6 @@ lang: en
 alternate_url: /file/project-zh/
 ---
 
-> Updated: October 7, 2024.
-
 ## Research Projects
 
 - *Research on the Mechanism of Rural Built Environment Formation, Measurement Methods, and Governance Strategies from the Perspective of Multiple and Complex Residential Satisfaction* — National Natural Science Foundation of China — Participant

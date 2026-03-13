@@ -6,8 +6,6 @@ lang: en
 alternate_url: /file/awards-zh/
 ---
 
-> Updated: September 7, 2025.
-
 ## Scholarships
 
 - Oct 2024: National Scholarship for Postgraduate Students

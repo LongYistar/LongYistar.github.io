@@ -18,7 +18,7 @@ My research examines how the built environment shapes travel behavior, with part
 
 If you would like to discuss research, collaboration, or academic exchange, feel free to contact me at *{{ site.owner.email }}*.
 
-> I am actively seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to broaden my research collaboration and international exchange.
+I am actively seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to broaden my research collaboration and international exchange.
 
 ## Academic Background
 

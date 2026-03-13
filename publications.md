@@ -6,8 +6,6 @@ lang: en
 alternate_url: /file/publications-zh/
 ---
 
-> Updated: September 7, 2025.
-
 ## Journal Articles
 
 - [**Yi Long**, Yibin Ao*, Haimei Li*, et al., 2024. Non-linear effects of children’s daily travel distance on their travel mode choice considering different destinations[J]. Journal of Transport Geography, 118: 103921.](https://doi.org/10.1016/j.jtrangeo.2024.103921)

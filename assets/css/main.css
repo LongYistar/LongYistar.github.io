@@ -408,7 +408,7 @@ tt,code,kbd,samp,pre,.highlight{font-family:var(--apple-code-font);}
 p code{padding:.15em .45em;border:1px solid var(--apple-code-border);background-color:var(--apple-code-bg);border-radius:999px;}
 hr{margin:2rem 0;border-top:1px solid var(--apple-border);border-bottom:0;}
 article img,img.floatpic{border-radius:30px;}
-img.floatpic{display:block;float:none;width:min(100%,21rem);margin:0 auto 1.75rem;box-shadow:0 22px 48px rgba(15,23,42,.12);}
+img.floatpic{display:block;float:none;width:min(72vw,14rem);margin:0 auto 1.75rem;box-shadow:0 22px 48px rgba(15,23,42,.12);}
 .btn{padding:.78rem 1.15rem;margin-bottom:1.5rem;border:1px solid rgba(29,29,31,.10);background:rgba(255,255,255,.85);border-radius:999px;box-shadow:0 8px 20px rgba(15,23,42,.06);font-size:.78rem;font-weight:600;text-transform:none;letter-spacing:0;color:var(--apple-text);}.btn:visited{border:1px solid rgba(29,29,31,.10);}.btn:hover{border:1px solid rgba(0,102,204,.30);background:#fff;}
 .btn-inverse{background-color:var(--apple-text);border-color:var(--apple-text);color:#fff;}.btn-inverse:visited,.btn-inverse:hover{color:#fff;border-color:var(--apple-text);}
 .btn-small{font-size:.78rem;padding:.65rem 1rem;}
@@ -437,5 +437,5 @@ img.floatpic{display:block;float:none;width:min(100%,21rem);margin:0 auto 1.75re
 .footer-wrap a,.footer-wrap a:active,.footer-wrap a:visited,.footer-wrap p,.footer-wrap h4,.footer-wrap h5,.footer-wrap h6{color:var(--apple-muted);}
 .footer-wrap a:hover{color:var(--apple-text);}
 .footer-wrap h6{font-size:.9rem;font-weight:400;line-height:1.8;}
-@media only screen and (min-width:37.5em){img.floatpic{float:right;width:min(42%,18rem);margin:0 0 1.5rem 1.75rem;} .author-panel{position:sticky;top:1.5rem;}}
+@media only screen and (min-width:37.5em){img.floatpic{float:right;width:min(28%,14rem);margin:0 0 1.5rem 1.75rem;} .author-panel{position:sticky;top:1.5rem;}}
 @media only screen and (max-width:37.49em){.top-navigation ul{gap:.5rem .75rem;} .top-navigation li a{padding:.5rem .75rem;} .article-wrap{border-radius:22px;} .bio-photo{margin-left:auto;margin-right:auto;} .author-panel{text-align:center;} .author-links a{justify-content:center;}}
