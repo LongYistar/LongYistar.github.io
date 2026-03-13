@@ -6,10 +6,11 @@ url: https://longyistar.github.io
 
 # Owner/author information
 owner:
-  name: longyi
-  avatar: longyi4.png
-  bio: Two roads diverged in woods, I took the one less traveled by.
-  email: longyi@stu.cdut.edu.cn
+  name: Yi Long
+  avatar: profile-avatar.png
+  profile_photo: profile-portrait.jpg
+  bio: PhD student at Tongji University researching built environment, travel behavior, and urban resilience.
+  email: longyi.cn@outlook.com
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
@@ -18,7 +19,7 @@ owner:
   scholar:  https://scholar.google.com/citations?user=J0ffCHMAAAAJ&hl=en
   #bilibili: 594030035
   researchgate: https://www.researchgate.net/profile/Long-Yi-7
-  OCID: https://orcid.org/my-orcid?orcid=0009-0005-3309-3500
+  orcid: https://orcid.org/0009-0005-3309-3500
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -45,7 +46,7 @@ links:
   - title: Project
     url: /project/
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown

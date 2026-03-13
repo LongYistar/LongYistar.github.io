@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 2025/09/07 &nbsp; [中文版本 (Chinese Version)](https://longyistar.github.io/file/awards-zh/)
+> Latest Update: 2025/09/07 &nbsp; [中文版本 (Chinese Version)](https://longyistar.github.io/file/awards-zh/)
 
 ## Scholarships
 
@@ -18,8 +18,8 @@ title: Awards
 - May 2023: Third Prize in 9th Chinese College Student Competition on Energy Economics Sichuan Regional
 - Dec 2021：Second Prize in Mathematics Competition of Chinese College Students (Non-Mathematics Category)
 - May 2021：Third Prize in 23th Interdisciplinary Contest In Modeling Certificate of Achievement
-- Nov 2020：**<font color='red'>National Second Prize</font>** in Collected the China Undergraduate Mathematical Contest in Modeling
-- Nov 2020：**<font color='red'>First Prize</font>** in Building Information Modeling Contest for College Students in Sichuan Province (**champion**)
+- Nov 2020：**National Second Prize** in the China Undergraduate Mathematical Contest in Modeling
+- Nov 2020：**First Prize** in the Building Information Modeling Contest for College Students in Sichuan Province (**champion**)
 - May 2020：Third Prize in 22th Mathematical Contest In Modeling Certificate of Achievement
 
 ## Honors
@@ -32,4 +32,3 @@ title: Awards
 
 - Feb 2024 - Jul 2025：China Highway & Transportation Society (Student member)
 - Jan 2024 - Jul 2025：Chinese Society of Technology Economics, Engineering Construction Management Committee (Student member)
-

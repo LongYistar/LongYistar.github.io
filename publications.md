@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 2025/09/07&nbsp;  [中文版本 (Chinese Version)](https://longyistar.github.io/file/publications-zh/)
+> Latest Update: 2025/09/07&nbsp;  [中文版本 (Chinese Version)](https://longyistar.github.io/file/publications-zh/)
 
 ## Journal Paper
 
@@ -34,4 +34,3 @@ title: Publications
 
 - **Yi Long**, Qimiao Xie(tutor). Development and Application of a Lightweight Platform for Building Information Modeling. Undergrad Thesis. (2022)
 - **Yi Long**, Yibin Ao(tutor). Nonlinear Effects of Neighborhood-Built Environment on Children's Travel Behavior in Urban-Rural Fringe Areas. Master's Thesis. (2025)
-

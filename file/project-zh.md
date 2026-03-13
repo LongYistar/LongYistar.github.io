@@ -4,7 +4,7 @@ permalink: /file/project-zh/index.html
 title: Project-zh
 ---
 
-> 更新时间：2024/04/10 &nbsp; [English Version (英文)](https://longyistar.github.io/awards/)
+> 更新时间：2024/04/10 &nbsp; [English Version (英文)](https://longyistar.github.io/project/)
 
 ## 科研项目
 
@@ -27,4 +27,3 @@ title: Project-zh
 
 - 参加2023年秋季清华大学交叉学科研究能力提升计划“大数据与因果推断研讨班”，提交论文顺利结课
 - 参加2024年秋季清华大学交叉学科研究能力提升计划“大数据与因果推断研讨班”，提交论文顺利结课
-
