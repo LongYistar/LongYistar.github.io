@@ -10,16 +10,17 @@ show_page_title: false
 
 ## 个人介绍
 
-![龙毅个人照片]({{ site.url }}/images/{{ site.owner.profile_photo }})
-{: .floatpic width="640" height="848" }
-
-你好，我是 **龙毅 (Yi Long)**，现为同济大学城市交通博士研究生，2025 年 9 月入学，师从 [洪少枝](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043)。
-
-我的研究主要关注建成环境与出行行为之间的关系，重点包括智能体建模、机器学习应用，以及面向韧性城市的交通与空间分析。
-
-如果您希望交流研究、合作项目或联合培养机会，欢迎通过邮箱与我联系：*{{ site.owner.email }}*。
-
-我目前正在积极寻找 CSC 资助的联合培养博士或访问学者机会，希望进一步拓展研究合作与国际交流。如您有相关机会，欢迎与我联系。
+<div class="about-intro">
+  <div class="about-intro__text">
+    <p>你好，我是 <strong>龙毅 (Yi Long)</strong>，现为同济大学城市交通博士研究生，2025 年 9 月入学，师从 <a href="https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043">洪少枝</a>。</p>
+    <p>我的研究主要关注建成环境与出行行为之间的关系，重点包括智能体建模、机器学习应用，以及面向韧性城市的交通与空间分析。</p>
+    <p>如果您希望交流研究、合作项目或联合培养机会，欢迎通过邮箱与我联系：<em>{{ site.owner.email }}</em>。</p>
+    <p>我目前正在积极寻找 CSC 资助的联合培养博士或访问学者机会，希望进一步拓展研究合作与国际交流。如您有相关机会，欢迎与我联系。</p>
+  </div>
+  <div class="about-intro__media">
+    <img src="{{ site.url }}/images/{{ site.owner.profile_photo }}" class="about-intro__image" alt="龙毅个人照片" width="989" height="1228">
+  </div>
+</div>
 
 ## 教育背景
 

@@ -409,6 +409,12 @@ p code{padding:.15em .45em;border:1px solid var(--apple-code-border);background-
 hr{margin:2rem 0;border-top:1px solid var(--apple-border);border-bottom:0;}
 article img,img.floatpic{border-radius:30px;}
 img.floatpic{display:block;float:none;width:min(72vw,14rem);margin:0 auto 1.75rem;box-shadow:0 22px 48px rgba(15,23,42,.12);}
+.about-intro{display:grid;grid-template-columns:minmax(0,1fr) clamp(9.5rem,22vw,12rem);gap:1.5rem;align-items:start;margin:0 0 2rem;}
+.about-intro__text{min-width:0;}
+.about-intro__text p{margin:0 0 1rem;text-indent:0;}
+.about-intro__text p:last-child{margin-bottom:0;}
+.about-intro__media{display:flex;justify-content:flex-end;align-items:flex-start;}
+.article-wrap .about-intro__image{display:block;width:100%;max-width:12rem;height:auto;border:1px solid rgba(29,29,31,.10);border-radius:22px;box-shadow:0 12px 28px rgba(15,23,42,.08);}
 .btn{padding:.78rem 1.15rem;margin-bottom:1.5rem;border:1px solid rgba(29,29,31,.10);background:rgba(255,255,255,.85);border-radius:999px;box-shadow:0 8px 20px rgba(15,23,42,.06);font-size:.78rem;font-weight:600;text-transform:none;letter-spacing:0;color:var(--apple-text);}.btn:visited{border:1px solid rgba(29,29,31,.10);}.btn:hover{border:1px solid rgba(0,102,204,.30);background:#fff;}
 .btn-inverse{background-color:var(--apple-text);border-color:var(--apple-text);color:#fff;}.btn-inverse:visited,.btn-inverse:hover{color:#fff;border-color:var(--apple-text);}
 .btn-small{font-size:.78rem;padding:.65rem 1rem;}
@@ -438,4 +444,5 @@ img.floatpic{display:block;float:none;width:min(72vw,14rem);margin:0 auto 1.75re
 .footer-wrap a:hover{color:var(--apple-text);}
 .footer-wrap h6{font-size:.9rem;font-weight:400;line-height:1.8;}
 @media only screen and (min-width:37.5em){img.floatpic{float:right;width:min(28%,14rem);margin:0 0 1.5rem 1.75rem;} .author-panel{position:sticky;top:1.5rem;}}
+@media only screen and (max-width:56rem){.about-intro{grid-template-columns:1fr;} .about-intro__media{justify-content:center;} .article-wrap .about-intro__image{max-width:min(60vw,11rem);}}
 @media only screen and (max-width:37.49em){.top-navigation ul{gap:.5rem .75rem;} .top-navigation li a{padding:.5rem .75rem;} .article-wrap{border-radius:22px;} .bio-photo{margin-left:auto;margin-right:auto;} .author-panel{text-align:center;} .author-links a{justify-content:center;}}

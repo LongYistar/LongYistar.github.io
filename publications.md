@@ -8,6 +8,8 @@ alternate_url: /file/publications-zh/
 
 ## Journal Articles
 
+- [**Yi Long**, Mingyang Li, Yibin Ao*,  et al., 2025. Spatial distribution of child-friendly facilities and its influence on low-carbon travel in urban planning[M]//HE B, CHEN T, LI Y, et al. Climate-resilient, low-carbon, and sustainable cities: Vol. 754. Singapore: Springer Nature Singapore, 2026: 493-505.](https://doi.org/10.1007/978-981-95-2169-2_27)
+- [**Yi Long**, Yibin Ao*, Mingyang Li, et al., 2025. The influence of neighborhood environments on children’s travel mode choices: An XGBoost/SHAP model analysis of Shuangliu District, Chengdu, China[J]. Transport Policy, Nov 6:103896.](https://doi.org/10.1016/j.tranpol.2025.103896)
 - [**Yi Long**, Yibin Ao*, Haimei Li*, et al., 2024. Non-linear effects of children’s daily travel distance on their travel mode choice considering different destinations[J]. Journal of Transport Geography, 118: 103921.](https://doi.org/10.1016/j.jtrangeo.2024.103921)
 - [Yibin Ao, **Yi Long**, Junjie Zheng*, et al., 2025. The influence of rural built environment on residents’ non-commuting travel mode choices[J]. Journal of Transport Geography, 128: 104330.](https://doi.org/10.1016/j.jtrangeo.2025.104330)
 - [Yibin Ao, **Yi Long***, Yuxin Tang, et al., 2025. The nonlinear relationship between age and children's daily travel behavior[J]. Science & Technology Review, 43(6): 65-73.](https://doi.org/10.3981/j.issn.1000-7857.2024.04.00321)

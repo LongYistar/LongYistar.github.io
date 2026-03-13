@@ -9,16 +9,17 @@ show_page_title: false
 
 ## About Me
 
-![Portrait of Yi Long]({{ site.url }}/images/{{ site.owner.profile_photo }})
-{: .floatpic width="640" height="848" }
-
-I am **Yi Long (龙毅)**, a PhD student in Urban Mobility at Tongji University. I joined the program in September 2025 and am advised by [Shaozhi Hong](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043).
-
-My research examines how the built environment shapes travel behavior, with particular interests in agent-based modeling, applied machine learning, and resilience-oriented urban analysis.
-
-If you would like to discuss research, collaboration, or academic exchange, feel free to contact me at *{{ site.owner.email }}*.
-
-I am actively seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to broaden my research collaboration and international exchange.
+<div class="about-intro">
+  <div class="about-intro__text">
+    <p>I am <strong>Yi Long (龙毅)</strong>, a PhD student in Urban Mobility at Tongji University. I joined the program in September 2025 and am advised by <a href="https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043">Shaozhi Hong</a>.</p>
+    <p>My research examines how the built environment shapes travel behavior, with particular interests in agent-based modeling, applied machine learning, and resilience-oriented urban analysis.</p>
+    <p>If you would like to discuss research, collaboration, or academic exchange, feel free to contact me at <em>{{ site.owner.email }}</em>.</p>
+    <p>I am actively seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to broaden my research collaboration and international exchange.</p>
+  </div>
+  <div class="about-intro__media">
+    <img src="{{ site.url }}/images/{{ site.owner.profile_photo }}" class="about-intro__image" alt="Portrait of Yi Long" width="989" height="1228">
+  </div>
+</div>
 
 ## Academic Background
 
