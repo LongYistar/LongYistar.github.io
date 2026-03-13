@@ -1,78 +1,31 @@
-<!-- Lastly modified by Hanlin CAI in 2023/04/26 -->
-<!-- It is not recommended to modify this code, unless you are a Pro-->
-
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-
-<head>
-{% include head.html %}
-
-<script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T5N5JY1E21');
-</script>
-
-</head>
-
-<body class="home" itemscope itemtype="http://schema.org/WebPage">
-
-{% include chrome-frame.html %}
-
-{% include navigation.html %}
-
-<div id="main" class="page-shell" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  <aside class="page-sidebar" aria-label="Author profile">
-    {% include author-bio.html %}
-  </aside>
-
-  <div class="page-main">
-    {% if page.image.feature %}
-    <div class="page-feature">
-      <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image">
-    </div>
-    {% endif %}
-
-    <section class="page-content">
-      {% if page.title or page.tagline %}
-      <header class="page-header">
-        {% if page.title %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
-        {% if page.tagline %}<p class="page-tagline">{{ page.tagline }}</p>{% endif %}
+---
+layout: default
+---
+{% assign show_page_title = page.show_page_title %}
+{% if show_page_title == nil %}
+  {% assign show_page_title = true %}
+{% endif %}
+<article class="page home" itemscope itemtype="http://schema.org/Blog">
+  <div class="page__inner-wrap">
+    {% if show_page_title or page.tagline %}
+      <header class="page__header">
+        {% if show_page_title and page.title %}<h1 class="page__title">{{ page.title }}</h1>{% endif %}
+        {% if page.tagline %}<p class="page__tagline">{{ page.tagline }}</p>{% endif %}
       </header>
-      {% endif %}
-
+    {% endif %}
+    <section class="page__content page-content">
       <div class="article-wrap">
         <div class="listing-header">
           <h2>Latest Articles</h2>
-          <a href="{{ site.url}}/articles" class="listing-link">View all articles</a>
+          <a href="{{ site.url }}/articles" class="listing-link">View all articles</a>
         </div>
         {% for post in site.categories.articles limit:5 %}
-        <article class="listing-item" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-          <h3 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
-          <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-        </article>
+          <article class="listing-item" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+            <h3 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
+            <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+          </article>
         {% endfor %}
       </div>
     </section>
   </div>
-</div>
-
-<div class="footer-wrap">
-  <footer>
-    {% include footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-{% include scripts.html %}
-  
-</body>
-</html>
+</article>

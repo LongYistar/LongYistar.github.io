@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /file/project-zh/index.html
-title: Project-zh
+title: 科研项目
+lang: zh
+alternate_url: /project/
 ---
 
-> 更新时间：2024/04/10 &nbsp; [English Version (英文)](https://longyistar.github.io/project/)
+> 更新时间：2024 年 4 月 10 日。
 
 ## 科研项目
 
@@ -25,5 +27,5 @@ title: Project-zh
 
 ## 科研经历
 
-- 参加2023年秋季清华大学交叉学科研究能力提升计划“大数据与因果推断研讨班”，提交论文顺利结课
-- 参加2024年秋季清华大学交叉学科研究能力提升计划“大数据与因果推断研讨班”，提交论文顺利结课
+- 参加 2023 年秋季清华大学交叉学科研究能力提升计划“大数据与因果推断研讨班”，提交论文并顺利结课。
+- 参加 2024 年秋季清华大学交叉学科研究能力提升计划“大数据与因果推断研讨班”，提交论文并顺利结课。

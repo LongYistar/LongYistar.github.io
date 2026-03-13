@@ -1,0 +1,19 @@
+en:
+  - title: About
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Awards
+    url: /awards/
+  - title: Projects
+    url: /project/
+
+zh:
+  - title: 简介
+    url: /file/aboutme-zh/
+  - title: 论文发表
+    url: /file/publications-zh/
+  - title: 荣誉奖项
+    url: /file/awards-zh/
+  - title: 科研项目
+    url: /file/project-zh/

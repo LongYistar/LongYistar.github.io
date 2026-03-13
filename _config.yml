@@ -1,26 +1,22 @@
 title: Yi Long
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
-# description: Two roads diverged in woods, I took the one less traveled by.
-#Comment out url when working locally to resolve base urls correctly
 url: https://longyistar.github.io
 
 # Owner/author information
 owner:
   name: Yi Long
+  name_zh: 龙毅
   avatar: profile-avatar.png
   profile_photo: profile-portrait.jpg
   bio: PhD student at Tongji University researching built environment, travel behavior, and urban resilience.
+  bio_zh: 同济大学城市交通博士研究生，研究建成环境、出行行为与城市韧性。
   email: longyi.cn@outlook.com
-  #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  # Social networking links are used in the author sidebar.
   #twitter: lancecai2002
   #github: LongYistar
-  #linkedin: hanlincai
   scholar:  https://scholar.google.com/citations?user=J0ffCHMAAAAJ&hl=en
   #bilibili: 594030035
   researchgate: https://www.researchgate.net/profile/Long-Yi-7
   orcid: https://orcid.org/0009-0005-3309-3500
-  # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -36,15 +32,6 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: About Me
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Project
-    url: /project/
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
 future: true
@@ -77,5 +64,3 @@ disqus:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/12/10 by Hanlin Cai.

@@ -1,24 +1,56 @@
-<div class="author-panel" itemscope itemtype="http://schema.org/Person">
-  <div class="author-panel__avatar">
-    <img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} profile photo" width="160" height="160">
+{% assign page_lang = page.lang | default: "" %}
+{% if page_lang == "" %}
+  {% if page.url contains '/file/' %}
+    {% assign page_lang = "zh" %}
+  {% else %}
+    {% assign page_lang = "en" %}
+  {% endif %}
+{% endif %}
+{% if page_lang == "zh" %}
+  {% assign owner_name = site.owner.name_zh | default: site.owner.name %}
+  {% assign owner_bio = site.owner.bio_zh | default: site.owner.bio %}
+  {% assign email_label = "邮箱" %}
+  {% assign cv_label = "简历" %}
+{% else %}
+  {% assign owner_name = site.owner.name %}
+  {% assign owner_bio = site.owner.bio %}
+  {% assign email_label = "Email" %}
+  {% assign cv_label = "Curriculum Vitae" %}
+{% endif %}
+
+<div itemscope itemtype="http://schema.org/Person" class="profile_box">
+  <div class="author__avatar">
+    <img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ owner_name }}" width="160" height="160">
   </div>
 
-  <div class="author-panel__content">
-    <p class="author-name" itemprop="name">{{ site.owner.name }}</p>
-    <p class="author-bio" itemprop="description">{{ site.owner.bio }}</p>
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name">{{ owner_name }}</h3>
+    {% if owner_bio %}<p class="author__bio" itemprop="description">{{ owner_bio }}</p>{% endif %}
   </div>
 
-  <ul class="author-links">
-    {% if site.owner.email %}<li><a href="mailto:{{ site.owner.email }}"><i class="icon-mail"></i><span>Email</span></a></li>{% endif %}
-    {% if site.owner.cv %}<li><a href="{{ site.owner.cv }}"><span>Curriculum Vitae</span></a></li>{% endif %}
-    {% if site.owner.github %}<li><a href="https://github.com/{{ site.owner.github }}"><i class="icon-github"></i><span>GitHub</span></a></li>{% endif %}
-    {% if site.owner.scholar %}<li><a href="{{ site.owner.scholar }}"><i class="ai ai-google-scholar-square"></i><span>Google Scholar</span></a></li>{% endif %}
-    {% if site.owner.researchgate %}<li><a href="{{ site.owner.researchgate }}"><i class="ai ai-researchgate-square"></i><span>ResearchGate</span></a></li>{% endif %}
-    {% if site.owner.orcid %}<li><a href="{{ site.owner.orcid }}"><i class="ai ai-orcid-square"></i><span>ORCID</span></a></li>{% endif %}
-    {% if site.owner.twitter %}<li><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i><span>Twitter</span></a></li>{% endif %}
-    {% if site.owner.linkedin %}<li><a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="icon-linkedin"></i><span>LinkedIn</span></a></li>{% endif %}
-  </ul>
+  <div class="author__urls-wrapper">
+    <ul class="author__urls">
+      {% if site.owner.email %}
+        <li><span class="author__urls-label">{{ email_label }}</span><a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a></li>
+      {% endif %}
+      {% if site.owner.cv %}
+        <li><span class="author__urls-label">{{ cv_label }}</span><a href="{{ site.owner.cv }}">{{ cv_label }}</a></li>
+      {% endif %}
+      {% if site.owner.scholar %}
+        <li><span class="author__urls-label">Scholar</span><a href="{{ site.owner.scholar }}">Google Scholar</a></li>
+      {% endif %}
+      {% if site.owner.researchgate %}
+        <li><span class="author__urls-label">ResearchGate</span><a href="{{ site.owner.researchgate }}">ResearchGate</a></li>
+      {% endif %}
+      {% if site.owner.orcid %}
+        <li><span class="author__urls-label">ORCID</span><a href="{{ site.owner.orcid }}">ORCID</a></li>
+      {% endif %}
+      {% if site.owner.github %}
+        <li><span class="author__urls-label">GitHub</span><a href="https://github.com/{{ site.owner.github }}">GitHub</a></li>
+      {% endif %}
+      {% if site.owner.linkedin %}
+        <li><span class="author__urls-label">LinkedIn</span><a href="https://linkedin.com/in/{{ site.owner.linkedin }}">LinkedIn</a></li>
+      {% endif %}
+    </ul>
+  </div>
 </div>
-
-
-<!-- Lastly modified by Hanlin CAI in 2023/10/15 -->

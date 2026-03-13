@@ -1,15 +1,17 @@
 ---
 layout: page
 permalink: /file/aboutme-zh/index.html
-title: Aboutme-zh
+title: 个人简介
 description: 龙毅个人简介页面。
+lang: zh
+alternate_url: /
+show_page_title: false
 ---
 
 ## 个人介绍
 
-<img src="{{ site.url }}/images/{{ site.owner.profile_photo }}" class="floatpic" alt="龙毅个人照片" width="640" height="848">
-
-<p class="profile-links"><a href="{{ site.url }}/">English Version</a></p>
+![龙毅个人照片]({{ site.url }}/images/{{ site.owner.profile_photo }})
+{: .floatpic width="640" height="848" }
 
 你好，我是 **龙毅 (Yi Long)**，现为同济大学城市交通博士研究生，2025 年 9 月入学，师从 [洪少枝](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043)。
 
@@ -17,9 +19,9 @@ description: 龙毅个人简介页面。
 
 如果您希望交流研究、合作项目或联合培养机会，欢迎通过邮箱与我联系：*{{ site.owner.email }}*。
 
-## 教育背景
+> 我目前正在积极寻找 CSC 资助的联合培养博士或访问学者机会，希望进一步拓展研究合作与国际交流。如您有相关机会，欢迎与我联系。
 
-<p class="profile-highlight"><strong>亮点。</strong> 我目前正在积极寻找 CSC 资助的联合培养博士或访问学者机会，希望进一步拓展研究合作与国际交流。如您有相关机会，欢迎与我联系。</p>
+## 教育背景
 
 - **2025/09 - 2029/06：** 同济大学，城市交通博士，导师 [洪少枝](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043)
 - **2022/09 - 2025/06：** 成都理工大学，土木水利硕士，导师 [敖仪斌教授](https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm)

@@ -1,23 +1,26 @@
 ---
 layout: page
+title: About Me
 description: Personal website of Yi Long, PhD student at Tongji University.
+lang: en
+alternate_url: /file/aboutme-zh/
+show_page_title: false
 ---
 
-## About Me 
+## About Me
 
-<img src="{{ site.url }}/images/{{ site.owner.profile_photo }}" class="floatpic" alt="Portrait of Yi Long" width="640" height="848">
+![Portrait of Yi Long]({{ site.url }}/images/{{ site.owner.profile_photo }})
+{: .floatpic width="640" height="848" }
 
-<p class="profile-links"><a href="{{ site.url }}/file/aboutme-zh/">中文版本 (Chinese Version)</a></p>
+I am **Yi Long (龙毅)**, a PhD student in Urban Mobility at Tongji University. I joined the program in September 2025 and am advised by [Shaozhi Hong](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043).
 
-I am **Yi Long (龙毅)**, a PhD student at the Urban Mobility Institute of Tongji University. I joined the program in September 2025 and am advised by [Shaozhi Hong](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043).
-
-My research focuses on the interaction between the built environment and travel behavior, with a particular interest in agent-based modeling, applied machine learning, and resilience-oriented urban analysis.
+My research examines how the built environment shapes travel behavior, with particular interests in agent-based modeling, applied machine learning, and resilience-oriented urban analysis.
 
 If you would like to discuss research, collaboration, or academic exchange, feel free to contact me at *{{ site.owner.email }}*.
 
-## Academic Background
+> I am actively seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to broaden my research collaboration and international exchange.
 
-<p class="profile-highlight"><strong>Highlight.</strong> I am currently seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to expand my research and international collaboration. If you know of a suitable opportunity, I would be grateful to hear from you.</p>
+## Academic Background
 
 - **Sep 2025 - Jun 2029:** PhD in Urban Mobility, Tongji University, supervised by [Shaozhi Hong](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043).
 - **Sep 2022 - Jun 2025:** MEng in Civil Engineering and Water Conservancy, Chengdu University of Technology, supervised by [Yibin Ao](https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm).
@@ -48,4 +51,3 @@ If you would like to discuss research, collaboration, or academic exchange, feel
 - **Nov 2020:** I received the National Second Prize in the China Undergraduate Mathematical Contest in Modeling.
 - **Nov 2020:** I received First Prize (Champion) in the Sichuan Provincial College Students Building Information Modeling Competition.
 - **Oct 2019:** I was awarded the National Encouragement Scholarship.
-

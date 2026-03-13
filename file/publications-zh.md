@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /file/publications-zh/index.html
-title: Publications-zh
+title: 论文发表
+lang: zh
+alternate_url: /publications/
 ---
 
-> 更新时间：2025/09/07 &nbsp;  [English Version (英文)](https://longyistar.github.io/publications/)
+> 更新时间：2025 年 9 月 7 日。
 
 ## 期刊论文
 
@@ -17,6 +19,10 @@ title: Publications-zh
 - [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, et al., 2024. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis[J]. Frontiers in Public Health, 12: 1333510](https://doi.org/10.3389/fpubh.2024.1333510)
 - [Homa Bahmani, Yibin Ao*, Dujuan Yang, Dongpo Wang, Mingyang Li, **Yi Long**, et al., 2024. Implications for improving evacuation safety in primary school corridors: a video-based analysis on evacuees’ speed and density[J]. Engineering, Construction and Architectural Management.](https://doi.org/10.1108/ECAM-01-2024-0017)
 - [Mingyang Li, Panyu Peng, Hao Zhu, Yibin Ao*, Zhongli Zhou, **Yi Long**, et al., 2025. Assessing the gap: Resource efficiency of institutionalized elderly care in urban and rural China[J]. Public Health, 238: 45-52.](https://doi.org/10.1016/j.puhe.2024.11.017)
+
+## 在审论文
+
+- **Yi Long**, Yibin Ao*, Mingyang Li, et al. The influence of neighborhood environments on children's travel mode choices: An XGBoost/SHAP model analysis of Shuangliu District, Chengdu, China[J]. *Transport Policy*.
 
 ## 会议报告
 

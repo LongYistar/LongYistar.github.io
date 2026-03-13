@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /file/awards-zh/index.html
-title: Awards-zh
+title: 荣誉奖项
+lang: zh
+alternate_url: /awards/
 ---
 
-> 更新时间：2025/09/07 &nbsp; [English Version (英文)](https://longyistar.github.io/awards/)
+> 更新时间：2025 年 9 月 7 日。
 
 ## 综合奖学金
 
@@ -26,10 +28,9 @@ title: Awards-zh
 
 - 2024年10月：2024年中国国土经济学会学术年会优秀论文
 - 2023年11月：第一届生活碳排放与可持续消费学术研讨会青年学术分会优秀交流报告二等奖
-- 2021年07月：四川省大学生综合素质A级证书
+- 2021年07月：四川省大学生综合素质 A 级证书
 
 ## 社会服务
 
 - 2024年02月-2025年07月：中国公路学会（学生会员）
 - 2024年01月-2025年07月：中国技术经济学会，工程建设管理专业委员会（学生会员）
-

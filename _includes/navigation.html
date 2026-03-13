@@ -1,19 +1,46 @@
-{% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
-<header class="site-masthead">
-  <div class="site-masthead__inner">
-    <div class="site-brand">
-      <a href="{{ site.url }}">{{ site.title }}</a>
-    </div>
-    <nav class="site-nav" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Primary">
-      <ul class="site-nav__list">
-        {% for link in site.links %}
-        <li class="site-nav__item">
-          <a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="is-current"{% endif %}>{{ link.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </div>
-</header>
+{% assign page_lang = page.lang | default: "" %}
+{% if page_lang == "" %}
+  {% if page.url contains '/file/' %}
+    {% assign page_lang = "zh" %}
+  {% else %}
+    {% assign page_lang = "en" %}
+  {% endif %}
+{% endif %}
+{% assign nav_items = site.data.navigation[page_lang] %}
+{% capture current_url %}{{ page.url | replace:'index.html','' }}{% endcapture %}
+{% if current_url == "" %}
+  {% assign current_url = "/" %}
+{% endif %}
+{% if page_lang == "zh" %}
+  {% assign home_url = "/file/aboutme-zh/" %}
+  {% assign site_name = site.owner.name_zh | default: site.title %}
+  {% assign switch_label = "English" %}
+{% else %}
+  {% assign home_url = "/" %}
+  {% assign site_name = site.title %}
+  {% assign switch_label = "中文" %}
+{% endif %}
+{% assign switch_url = page.alternate_url | default: home_url %}
 
-<!-- Lastly modified by Hanlin CAI in 2023/05/01 -->
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Primary">
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--home">
+            <a href="{{ site.url }}{{ home_url }}">{{ site_name }}</a>
+          </li>
+          {% for link in nav_items %}
+            {% capture link_url %}{{ link.url | replace:'index.html','' }}{% endcapture %}
+            <li class="masthead__menu-item">
+              <a href="{{ site.url }}{{ link.url }}"{% if current_url == link_url %} class="is-current"{% endif %}>{{ link.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+        <div class="masthead__menu-meta">
+          <a class="language-switch" href="{{ site.url }}{{ switch_url }}">{{ switch_label }}</a>
+        </div>
+      </nav>
+    </div>
+  </div>
+</div>
