@@ -1,17 +1,19 @@
-<div class="navigation-wrapper">
-	<div class="site-name">
-		<a href="{{ site.url }}">{{ site.title }}</a>
-	</div><!-- /.site-name -->
-  {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
-	<div class="top-navigation">
-		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-		    <ul>
-		        {% for link in site.links %}
-            <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
-		        {% endfor %}
-		    </ul>
-		</nav>
-	</div><!-- /.top-navigation -->
-</div><!-- /.navigation-wrapper -->
+{% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
+<header class="site-masthead">
+  <div class="site-masthead__inner">
+    <div class="site-brand">
+      <a href="{{ site.url }}">{{ site.title }}</a>
+    </div>
+    <nav class="site-nav" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Primary">
+      <ul class="site-nav__list">
+        {% for link in site.links %}
+        <li class="site-nav__item">
+          <a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="is-current"{% endif %}>{{ link.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
 
 <!-- Lastly modified by Hanlin CAI in 2023/05/01 -->

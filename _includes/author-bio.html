@@ -1,18 +1,23 @@
-<div class="author-panel">
-  <img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} profile photo" width="116" height="116">
-  <p class="author-name">{{ site.owner.name }}</p>
-  <p class="author-bio">{{ site.owner.bio }}</p>
-
-  <div class="author-links">
-    {% if site.owner.email %}<p><a href="mailto:{{ site.owner.email }}"><i class="icon-mail"></i><span>Email</span></a></p>{% endif %}
-    {% if site.owner.cv %}<p><a href="{{ site.owner.cv }}"><span>Curriculum Vitae</span></a></p>{% endif %}
-    {% if site.owner.github %}<p><a href="https://github.com/{{ site.owner.github }}"><i class="icon-github"></i><span>GitHub</span></a></p>{% endif %}
-    {% if site.owner.scholar %}<p><a href="{{ site.owner.scholar }}"><span>Google Scholar</span></a></p>{% endif %}
-    {% if site.owner.researchgate %}<p><a href="{{ site.owner.researchgate }}"><span>ResearchGate</span></a></p>{% endif %}
-    {% if site.owner.orcid %}<p><a href="{{ site.owner.orcid }}"><span>ORCID</span></a></p>{% endif %}
-    {% if site.owner.twitter %}<p><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i><span>Twitter</span></a></p>{% endif %}
-    {% if site.owner.linkedin %}<p><a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="icon-linkedin"></i><span>LinkedIn</span></a></p>{% endif %}
+<div class="author-panel" itemscope itemtype="http://schema.org/Person">
+  <div class="author-panel__avatar">
+    <img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} profile photo" width="160" height="160">
   </div>
+
+  <div class="author-panel__content">
+    <p class="author-name" itemprop="name">{{ site.owner.name }}</p>
+    <p class="author-bio" itemprop="description">{{ site.owner.bio }}</p>
+  </div>
+
+  <ul class="author-links">
+    {% if site.owner.email %}<li><a href="mailto:{{ site.owner.email }}"><i class="icon-mail"></i><span>Email</span></a></li>{% endif %}
+    {% if site.owner.cv %}<li><a href="{{ site.owner.cv }}"><span>Curriculum Vitae</span></a></li>{% endif %}
+    {% if site.owner.github %}<li><a href="https://github.com/{{ site.owner.github }}"><i class="icon-github"></i><span>GitHub</span></a></li>{% endif %}
+    {% if site.owner.scholar %}<li><a href="{{ site.owner.scholar }}"><i class="ai ai-google-scholar-square"></i><span>Google Scholar</span></a></li>{% endif %}
+    {% if site.owner.researchgate %}<li><a href="{{ site.owner.researchgate }}"><i class="ai ai-researchgate-square"></i><span>ResearchGate</span></a></li>{% endif %}
+    {% if site.owner.orcid %}<li><a href="{{ site.owner.orcid }}"><i class="ai ai-orcid-square"></i><span>ORCID</span></a></li>{% endif %}
+    {% if site.owner.twitter %}<li><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i><span>Twitter</span></a></li>{% endif %}
+    {% if site.owner.linkedin %}<li><a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="icon-linkedin"></i><span>LinkedIn</span></a></li>{% endif %}
+  </ul>
 </div>
 
 
