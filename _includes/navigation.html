@@ -1,3 +1,4 @@
+{% assign nav_items = site.data.navigation.main %}
 {% assign page_lang = page.lang | default: "" %}
 {% if page_lang == "" %}
   {% if page.url contains '/file/' %}
@@ -6,21 +7,17 @@
     {% assign page_lang = "en" %}
   {% endif %}
 {% endif %}
-{% assign nav_items = site.data.navigation[page_lang] %}
 {% capture current_url %}{{ page.url | replace:'index.html','' }}{% endcapture %}
 {% if current_url == "" %}
   {% assign current_url = "/" %}
 {% endif %}
+{% assign home_url = "/" %}
+{% assign site_name = site.title %}
 {% if page_lang == "zh" %}
-  {% assign home_url = "/file/aboutme-zh/" %}
-  {% assign site_name = site.owner.name_zh | default: site.title %}
   {% assign switch_label = "English" %}
 {% else %}
-  {% assign home_url = "/" %}
-  {% assign site_name = site.title %}
   {% assign switch_label = "中文" %}
 {% endif %}
-{% assign switch_url = page.alternate_url | default: home_url %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -37,9 +34,11 @@
             </li>
           {% endfor %}
         </ul>
-        <div class="masthead__menu-meta">
-          <a class="language-switch" href="{{ site.url }}{{ switch_url }}">{{ switch_label }}</a>
-        </div>
+        {% if page.alternate_url %}
+          <div class="masthead__menu-meta">
+            <a class="language-switch" href="{{ site.url }}{{ page.alternate_url }}">{{ switch_label }}</a>
+          </div>
+        {% endif %}
       </nav>
     </div>
   </div>

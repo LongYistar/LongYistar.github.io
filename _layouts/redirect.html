@@ -1,0 +1,21 @@
+{% assign page_lang = page.lang | default: "en" %}
+<!doctype html>
+<html lang="{% if page_lang == 'zh' %}zh-CN{% else %}en{% endif %}">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <link rel="canonical" href="{{ site.url }}{{ page.redirect_to }}">
+  <meta http-equiv="refresh" content="0; url={{ site.url }}{{ page.redirect_to }}">
+</head>
+<body>
+  <p>
+    {% if page_lang == "zh" %}
+      页面已迁移，正在跳转。如果没有自动跳转，请访问 <a href="{{ site.url }}{{ page.redirect_to }}">{{ site.url }}{{ page.redirect_to }}</a>。
+    {% else %}
+      This page has moved. If you are not redirected automatically, visit <a href="{{ site.url }}{{ page.redirect_to }}">{{ site.url }}{{ page.redirect_to }}</a>.
+    {% endif %}
+  </p>
+</body>
+</html>

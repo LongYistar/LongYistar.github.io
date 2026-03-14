@@ -3,7 +3,6 @@ layout: page
 permalink: /file/project-zh/index.html
 title: 科研项目
 lang: zh
-alternate_url: /project/
 ---
 
 ## 科研项目

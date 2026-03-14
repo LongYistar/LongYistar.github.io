@@ -11,3 +11,13 @@
 {% else %}
   <p>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Hosted with <a href="https://pages.github.com/" rel="nofollow">GitHub Pages</a> and built with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>.</p>
 {% endif %}
+<div class="visitor-counter" aria-label="{% if page_lang == 'zh' %}访客地图{% else %}Visitor map{% endif %}">
+  {% if page_lang == "zh" %}
+    <p class="visitor-counter__label">访客地图</p>
+  {% else %}
+    <p class="visitor-counter__label">Visitor Map</p>
+  {% endif %}
+  <div class="visitor-counter__widget">
+    <script id="clstr_globe" src="https://clustrmaps.com/globe.js?d=tGZ_4852x6Mm-PPomoo98e4y_CI8D9TmioGTO03Daik"></script>
+  </div>
+</div>

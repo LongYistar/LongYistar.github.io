@@ -32,23 +32,15 @@ show_page_title: false
 - **Travel behavior resilience under disasters:** I use large-scale data to examine how travelers respond to disruptive events and how adaptive strategies vary across groups and contexts.
 - **Built environment, EV charging infrastructure, and urban energy resilience:** I explore how planning, mobility systems, and charging infrastructure can be coordinated to support low-carbon and resilient urban development.
 
-## News and Updates
+## 🔥 News
 
-- **Nov 2025:** Our paper, "The influence of neighborhood environments on children's travel mode choices: An XGBoost/SHAP model analysis of Shuangliu District, Chengdu, China," was accepted by *Transport Policy*.
-- **Jul 2025:** I completed the Autumn 2024 Tsinghua Interdisciplinary Research Ability Enhancement Program, "Big Data and Causal Inference Seminar."
-- **Jun 2025:** Our paper, "The influence of rural built environment on residents' non-commuting travel mode choices," was published in *Journal of Transport Geography*.
-- **Mar 2025:** Our paper, "The nonlinear relationship between age and children's daily travel behavior," was published in *Science & Technology Review*.
-- **Nov 2024:** I presented at the Conference on High-Quality Urban Development and Beautiful Countryside Construction in Mianyang, China.
-- **Oct 2024:** I received the National Scholarship for Postgraduate Students of China.
-- **Sep 2024:** I received the Outstanding Paper Award at the 2024 Annual Academic Seminar of the China Society of Territorial Economics.
-- **Jun 2024:** I presented at the World Transport Convention 2024 (WTC 2024) in Qingdao, China.
-- **Jun 2024:** Our paper, "Non-linear effects of children's daily travel distance on their travel mode choice considering different destinations," was published in *Journal of Transport Geography*.
-- **Apr 2024:** I completed the Autumn 2023 Tsinghua Interdisciplinary Research Ability Enhancement Program, "Big Data and Causal Inference Seminar."
-- **Nov 2023:** I received the Second Prize for Excellent Presentation at the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption Youth Academic Sub-Session.
-- **Jun 2023:** I attended the First Academic Seminar on Neural Engineering Management in Chongqing, China.
-- **May 2023:** I received Third Prize in the 9th Chinese College Student Competition on Energy Economics, Sichuan Regional.
-- **Dec 2021:** I received Second Prize in the Mathematics Competition of Chinese College Students (Non-Mathematics Category).
-- **Jul 2021:** I was awarded the Sichuan Provincial College Student Comprehensive Quality A-Level Certificate.
-- **Nov 2020:** I received the National Second Prize in the China Undergraduate Mathematical Contest in Modeling.
-- **Nov 2020:** I received First Prize (Champion) in the Sichuan Provincial College Students Building Information Modeling Competition.
-- **Oct 2019:** I was awarded the National Encouragement Scholarship.
+- **2025.11:** 🎉🎉 One paper is accepted by *Transport Policy*.
+- **2025.07:** 🎉🎉 I completed the Autumn 2024 Tsinghua Interdisciplinary Research Ability Enhancement Program, "Big Data and Causal Inference Seminar."
+- **2025.06:** 🎉🎉 One paper is published in *Journal of Transport Geography*.
+- **2025.03:** 🎉🎉 One paper is published in *Science & Technology Review*.
+- **2024.11:** 🎉🎉 I presented at the Conference on High-Quality Urban Development and Beautiful Countryside Construction in Mianyang, China.
+- **2024.10:** 🎉🎉 I received the National Scholarship for Postgraduate Students of China.
+- **2024.09:** 🎉🎉 I received the Outstanding Paper Award at the 2024 Annual Academic Seminar of the China Society of Territorial Economics.
+- **2024.06:** 🎉🎉 I presented at WTC 2024 and published one paper in *Journal of Transport Geography*.
+- **2024.04:** 🎉🎉 I completed the Autumn 2023 Tsinghua Interdisciplinary Research Ability Enhancement Program, "Big Data and Causal Inference Seminar."
+- **2023.11:** 🎉🎉 I received the Second Prize for Excellent Presentation at the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption Youth Academic Sub-Session.
