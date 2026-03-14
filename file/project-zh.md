@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /file/project-zh/index.html
-title: 科研项目
+title: project
 lang: zh
 ---
 

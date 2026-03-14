@@ -571,6 +571,11 @@ img.floatpic {
   justify-content: center;
 }
 
+.visitor-counter__badge {
+  display: block;
+  max-width: 100%;
+}
+
 .footer_site a,
 .footer_site a:visited {
   border-bottom: 0;

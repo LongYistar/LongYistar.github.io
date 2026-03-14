@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /file/awards-zh/index.html
-title: 荣誉奖项
+title: awards
 lang: zh
 ---
 

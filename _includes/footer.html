@@ -11,13 +11,16 @@
 {% else %}
   <p>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Hosted with <a href="https://pages.github.com/" rel="nofollow">GitHub Pages</a> and built with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>.</p>
 {% endif %}
-<div class="visitor-counter" aria-label="{% if page_lang == 'zh' %}访客地图{% else %}Visitor map{% endif %}">
+<div class="visitor-counter" aria-label="{% if page_lang == 'zh' %}页面访问量{% else %}Page visits{% endif %}">
   {% if page_lang == "zh" %}
-    <p class="visitor-counter__label">访客地图</p>
+    <p class="visitor-counter__label">页面访问量</p>
   {% else %}
-    <p class="visitor-counter__label">Visitor Map</p>
+    <p class="visitor-counter__label">Page Visits</p>
   {% endif %}
   <div class="visitor-counter__widget">
-    <script id="clstr_globe" src="https://clustrmaps.com/globe.js?d=tGZ_4852x6Mm-PPomoo98e4y_CI8D9TmioGTO03Daik"></script>
+    <img
+      class="visitor-counter__badge"
+      src="https://hits.sh/{{ site.url | remove:'https://' | remove:'http://' }}.svg?style=flat-square&label=Visits&color=2563eb&labelColor=1f2937"
+      alt="{% if page_lang == 'zh' %}网站页面访问量{% else %}Website page visits{% endif %}">
   </div>
 </div>
