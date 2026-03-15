@@ -14,14 +14,12 @@ lang: en
 - [Mingyang Li, Panyu Peng, Hao Zhu, Yibin Ao*, Zhongli Zhou, **Yi Long**, et al. Assessing the gap: Resource efficiency of institutionalized elderly care in urban and rural China[J]. Public Health, 2025, 238: 45-52.](https://doi.org/10.1016/j.puhe.2024.11.017)
 - [**Yi Long**, Yibin Ao*, Haimei Li*, et al. Non-linear effects of children’s daily travel distance on their travel mode choice considering different destinations[J]. Journal of Transport Geography, 2024, 118: 103921.](https://doi.org/10.1016/j.jtrangeo.2024.103921)
 - [Yanan Liu, Yibin Ao*, Li Han, **Yi Long**. Rural parents’ route choices under different modes for school children drop-off and pick-up: A stated choice experiment[J]. Transportation Planning and Technology, 2024: 1-20.](https://doi.org/10.1080/03081060.2024.2436948)
-- [Haimei Li, Mingyang Li, Panyu Peng, **Yi Long**, Yibin Ao, et al. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis[J]. Frontiers in Public Health, 2024, 12: 1333510.](https://doi.org/10.3389/fpubh.2024.1333510)
+- [Haimei Li, Mingyang Li*, Panyu Peng, **Yi Long**, Yibin Ao, et al. Exploring non-linear effects of walking accessibility on well-being in rural older adults of Jintang County: a random forest analysis[J]. Frontiers in Public Health, 2024, 12: 1333510.](https://doi.org/10.3389/fpubh.2024.1333510)
 - [Homa Bahmani, Yibin Ao*, Dujuan Yang, Dongpo Wang, Mingyang Li, **Yi Long**, et al. Implications for improving evacuation safety in primary school corridors: a video-based analysis on evacuees’ speed and density[J]. Engineering, Construction and Architectural Management, 2025, 32(12): 8472-8493.](https://doi.org/10.1108/ECAM-01-2024-0017)
 - [敖仪斌, **龙毅***, 唐雨欣, 等. 年龄与儿童日常出行行为的非线性关系[J]. 科技导报, 2025, 43(6): 65-73.](https://doi.org/10.3981/j.issn.1000-7857.2024.04.00321)
 - [彭攀宇, 李明洋, **龙毅**, 等. 信息技术在防灾减灾和救灾体系中的应用与挑战[J]. 科技导报, 2025, 43(15): 61-70.](https://doi.org/10.3981/j.issn.1000-7857.2024.06.00644)
 ## Working Paper
-
-- 
-
+-
 ## Conference Presentations
 
 - **龙毅**，敖仪斌，李明洋. 儿童友好设施空间分布视角下低碳出行研究. 第一届生活碳排放与可持续消费学术研讨会. (2023)
