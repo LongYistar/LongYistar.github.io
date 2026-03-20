@@ -17,10 +17,11 @@ lang: en
 - [Homa Bahmani, Yibin Ao*, Dujuan Yang, Dongpo Wang, Mingyang Li, **Yi Long**, et al. Implications for improving evacuation safety in primary school corridors: a video-based analysis on evacuees’ speed and density[J]. Engineering, Construction and Architectural Management, 2025, 32(12): 8472-8493.](https://doi.org/10.1108/ECAM-01-2024-0017)
 - [敖仪斌, **龙毅***, 唐雨欣, 等. 年龄与儿童日常出行行为的非线性关系[J]. 科技导报, 2025, 43(6): 65-73.](https://doi.org/10.3981/j.issn.1000-7857.2024.04.00321)
 - [彭攀宇, 李明洋, **龙毅**, 等. 信息技术在防灾减灾和救灾体系中的应用与挑战[J]. 科技导报, 2025, 43(15): 61-70.](https://doi.org/10.3981/j.issn.1000-7857.2024.06.00644)
+
 ## Book/Chapter
 
 - [敖仪斌, **龙毅**, 陶垠桥, 李明校. 四川省蓝绿空间时空格局演变及其气候影响因素分析[M]. // 李晓燕, 李晟之主编; 王倩, 赵川副主编. 四川生态文明建设报告（2025）. 北京: 社会科学文献出版社, 2025: 122–137.](https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=16454271&contentType=literature)
-- [**Yi Long**, Mingyang Li, Yibin Ao*,  et al. Spatial distribution of child-friendly facilities and its influence on low-carbon travel in urban planning[M]//HE B, CHEN T, LI Y, et al. Climate-resilient, low-carbon, and sustainable cities: Vol. 754. Singapore: Springer Nature Singapore, 2026: 493-505.](https://doi.org/10.1007/978-981-95-2169-2_27)
+- [**Yi Long**, Mingyang Li, Panyu Peng, Yibin Ao*, et al. Spatial distribution of child-friendly facilities and its influence on low-carbon travel in urban planning[M]//HE B, CHEN T, LI Y, et al. Climate-resilient, low-carbon, and sustainable cities: Vol. 754. Singapore: Springer Nature Singapore, 2026: 493-505.](https://doi.org/10.1007/978-981-95-2169-2_27)
 
 ## Conference Presentations
 
