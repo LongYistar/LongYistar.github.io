@@ -15,6 +15,7 @@ show_page_title: false
     <p>你好，我是 <strong>龙毅 (Yi Long)</strong>，现为同济大学城市交通博士研究生，2025 年 9 月入学，师从 <a href="https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043">洪少枝</a>。</p>
     <p>我的研究主要关注建成环境与出行行为之间的关系，重点包括智能体建模、机器学习应用，以及面向韧性城市的交通与空间分析。</p>
     <p>如果您希望交流研究、合作项目或联合培养机会，欢迎通过邮箱与我联系：<em>{{ site.owner.email }}</em>。</p>
+    <p>我还担任 <a href="{{ site.url }}/file/Transportation.pdf">Transportation</a>、<a href="{{ site.url }}/file/Applied%20Spatial%20Analysis%20and%20Policy.pdf">Applied Spatial Analysis and Policy</a> 和 <a href="{{ site.url }}/file/BMC%20Public%20Health.pdf">BMC Public Health</a> 的审稿人。</p>
     <p>我目前正在积极寻找 CSC 资助的联合培养博士或访问学者机会，希望进一步拓展研究合作与国际交流。如您有相关机会，欢迎与我联系。</p>
   </div>
   <div class="about-intro__media">
