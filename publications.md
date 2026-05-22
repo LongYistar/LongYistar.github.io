@@ -20,6 +20,7 @@ lang: en
 
 ## Book/Chapter
 
+- [Yibin Ao, **Yi Long**, Homa Bahmani. Child-Friendly Built Environments[M]. Resilient and Friendly Living Environments. Singapore: Springer Singapore, 2026.](https://doi.org/10.1007/978-981-95-8856-5)
 - [敖仪斌, **龙毅**, 陶垠桥, 李明校. 四川省蓝绿空间时空格局演变及其气候影响因素分析[M]. // 李晓燕, 李晟之主编; 王倩, 赵川副主编. 四川生态文明建设报告（2025）. 北京: 社会科学文献出版社, 2025: 122–137.](https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=16454271&contentType=literature)
 - [**Yi Long**, Mingyang Li, Panyu Peng, Yibin Ao*, et al. Spatial distribution of child-friendly facilities and its influence on low-carbon travel in urban planning[M]//HE B, CHEN T, LI Y, et al. Climate-resilient, low-carbon, and sustainable cities: Vol. 754. Singapore: Springer Nature Singapore, 2026: 493-505.](https://doi.org/10.1007/978-981-95-2169-2_27)
 
