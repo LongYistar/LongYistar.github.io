@@ -39,7 +39,7 @@ show_footer: false
   <div class='paper-box-image'>
     <div class='paper-card-media paper-card-media--workflow'>
       <div class="badge">TR Part D 2026</div>
-      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/trd-workflow.png' alt='Workflow figure from the Typhoon and Bike-Sharing paper'>
+      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/trd-2026-workflow.png' alt='Workflow figure from the Typhoon and Bike-Sharing paper'>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -50,7 +50,26 @@ show_footer: false
 
 <span class="paper-box__meta">Transportation Research Part D: Transport and Environment, 159, 105525 (2026)</span>
 
-[**DOI**](https://doi.org/10.1016/j.trd.2026.105525)
+<span class="paper-box__metrics">CAS Top/1Q (2025 upgrade) · Scopus Transportation Q1 · IF 8.7 · CiteScore 13.6</span>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='paper-card-media'>
+      <div class="badge">Book 2026</div>
+      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/child-friendly-book-cover-wide.jpg' alt='Cover of Child-Friendly Built Environments'>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Child-Friendly Built Environments](https://doi.org/10.1007/978-981-95-8856-5)
+
+Yibin Ao, **Yi Long**, Homa Bahmani
+
+<span class="paper-box__meta">Springer Nature Singapore, Resilient and Friendly Living Environments (2026)</span>
+
+<span class="paper-box__metrics">Academic monograph · Springer Nature Singapore · Book in the Resilient and Friendly Living Environments series</span>
   </div>
 </div>
 
@@ -58,7 +77,7 @@ show_footer: false
   <div class='paper-box-image'>
     <div class='paper-card-media paper-card-media--workflow'>
       <div class="badge">Transport Policy 2026</div>
-      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/tranpol-workflow.png' alt='Workflow figure from the children travel mode choice paper'>
+      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/tranpol-2026-workflow.png' alt='Workflow figure from the neighborhood environments and children travel mode choice paper'>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -69,15 +88,15 @@ show_footer: false
 
 <span class="paper-box__meta">Transport Policy, 175, 103896 (2026)</span>
 
-[**DOI**](https://doi.org/10.1016/j.tranpol.2025.103896)
+<span class="paper-box__metrics">CAS Top/2Q (2025 upgrade) · Scopus Transportation Q1 · IF 6.2 · CiteScore 10.3</span>
   </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='paper-thumb'>
+    <div class='paper-card-media'>
       <div class="badge">JTG 2025</div>
-      <span>The influence of rural built environment on residents’ non-commuting travel mode choices</span>
+      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/jtg-2025-rural-communities.png' alt='Figure from the rural built environment paper'>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -88,26 +107,26 @@ Yibin Ao, **Yi Long**, Junjie Zheng, et al.
 
 <span class="paper-box__meta">Journal of Transport Geography, 128, 104330 (2025)</span>
 
-[**DOI**](https://doi.org/10.1016/j.jtrangeo.2025.104330)
+<span class="paper-box__metrics">CAS Top/1Q (2025 upgrade) · Scopus Transportation Q1 · IF 6.8 · CiteScore 10.0</span>
   </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='paper-card-media paper-card-media--book'>
-      <div class="badge">Book 2026</div>
-      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/child-friendly-book-cover.jpg' alt='Cover of Child-Friendly Built Environments'>
+    <div class='paper-card-media'>
+      <div class="badge">JTG 2024</div>
+      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/jtg-2024-children-map.png' alt='Figure from the children daily travel distance paper'>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Child-Friendly Built Environments](https://doi.org/10.1007/978-981-95-8856-5)
+[Non-linear Effects of Children’s Daily Travel Distance on Their Travel Mode Choice Considering Different Destinations](https://doi.org/10.1016/j.jtrangeo.2024.103921)
 
-Yibin Ao, **Yi Long**, Homa Bahmani
+**Yi Long**, Yibin Ao, Haimei Li, et al.
 
-<span class="paper-box__meta">Springer Nature Singapore (2026)</span>
+<span class="paper-box__meta">Journal of Transport Geography, 118, 103921 (2024)</span>
 
-[**DOI**](https://doi.org/10.1007/978-981-95-8856-5)
+<span class="paper-box__metrics">CAS Top/1Q (2025 upgrade) · Scopus Transportation Q1 · IF 6.8 · CiteScore 10.0</span>
   </div>
 </div>
 
