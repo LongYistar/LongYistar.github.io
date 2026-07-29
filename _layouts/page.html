@@ -19,7 +19,9 @@ layout: default
         {% if page.tagline %}<p class="page__tagline">{{ page.tagline }}</p>{% endif %}
       </header>
     {% endif %}
-    <nav class="page__section-nav page-section-nav" data-section-nav hidden aria-label="On this page"></nav>
+    {% if page.show_section_nav != false %}
+      <nav class="page__section-nav page-section-nav" data-section-nav hidden aria-label="On this page"></nav>
+    {% endif %}
     <section class="page__content page-content" itemprop="text">
       <div class="article-wrap">
         {{ content }}

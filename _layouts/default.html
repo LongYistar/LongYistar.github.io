@@ -20,9 +20,11 @@
   {{ content }}
 </div>
 
-<div class="footer_site">
-  {% include footer.html %}
-</div>
+{% if page.show_footer != false %}
+  <div class="footer_site">
+    {% include footer.html %}
+  </div>
+{% endif %}
 
 {% include scripts.html %}
 </body>

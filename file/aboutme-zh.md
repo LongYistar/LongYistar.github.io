@@ -6,9 +6,11 @@ description: 龙毅个人简介页面。
 lang: zh
 alternate_url: /
 show_page_title: false
+show_section_nav: false
+show_footer: false
 ---
 
-## 个人介绍
+<span class='anchor' id='about-me-zh'></span>
 
 <div class="home-intro">
   <p>你好，我是 <strong>龙毅 (Yi Long)</strong>，现为同济大学城市交通博士研究生，2025 年 9 月入学，师从 <a href="https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043">洪少枝</a>。此前，我在成都理工大学完成土木水利硕士学习，导师为 <a href="https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm">敖仪斌</a>。</p>
@@ -17,7 +19,9 @@ show_page_title: false
   <p>我目前也在积极寻找 CSC 资助的联合培养博士或访问学者机会，以拓展国际合作与学术交流。如需讨论研究合作、论文交流或学术访问，欢迎通过 <a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a> 与我联系。</p>
 </div>
 
-## 🔥 动态
+<span class='anchor' id='news-zh'></span>
+
+# 🔥 动态
 
 <ul class="home-news">
   <li><span class="home-news__date">2026.07</span><span class="home-news__text">🎉🎉 1 篇论文被 <em>Transportation Research Part D: Transport and Environment</em> 录用。</span></li>
@@ -28,38 +32,91 @@ show_page_title: false
   <li><span class="home-news__date">2025.03</span><span class="home-news__text">🎉🎉 1 篇论文发表于《科技导报》。</span></li>
 </ul>
 
-## 📝 代表性成果
+<span class='anchor' id='publications-zh'></span>
 
-<div class="home-paper-list">
-  <article class="home-paper">
-    <p class="home-paper__venue">Transportation Research Part D: Transport and Environment, 159, 105525 (2026)</p>
-    <h3 class="home-paper__title"><a href="https://doi.org/10.1016/j.trd.2026.105525">Typhoon and Bike-Sharing: Non-linear Built Environment Associations with Activity Recovery in Shenzhen</a></h3>
-    <p class="home-paper__authors"><strong>Yi Long</strong>, Haoran Jiang, Shaozhi Hong, Yangyang Su</p>
-    <p class="home-paper__links"><a href="https://doi.org/10.1016/j.trd.2026.105525">DOI</a></p>
-  </article>
-  <article class="home-paper">
-    <p class="home-paper__venue">Transport Policy, 175, 103896 (2026)</p>
-    <h3 class="home-paper__title"><a href="https://doi.org/10.1016/j.tranpol.2025.103896">The Influence of Neighborhood Environments on Children’s Travel Mode Choices: An XGBoost/SHAP Model Analysis of Shuangliu District, Chengdu, China</a></h3>
-    <p class="home-paper__authors"><strong>Yi Long</strong>, Yibin Ao, Mingyang Li, et al.</p>
-    <p class="home-paper__links"><a href="https://doi.org/10.1016/j.tranpol.2025.103896">DOI</a></p>
-  </article>
-  <article class="home-paper">
-    <p class="home-paper__venue">Journal of Transport Geography, 128, 104330 (2025)</p>
-    <h3 class="home-paper__title"><a href="https://doi.org/10.1016/j.jtrangeo.2025.104330">The Influence of Rural Built Environment on Residents’ Non-Commuting Travel Mode Choices</a></h3>
-    <p class="home-paper__authors">Yibin Ao, <strong>Yi Long</strong>, Junjie Zheng, et al.</p>
-    <p class="home-paper__links"><a href="https://doi.org/10.1016/j.jtrangeo.2025.104330">DOI</a></p>
-  </article>
-  <article class="home-paper">
-    <p class="home-paper__venue">专著，Springer Nature Singapore（2026）</p>
-    <h3 class="home-paper__title"><a href="https://doi.org/10.1007/978-981-95-8856-5">Child-Friendly Built Environments</a></h3>
-    <p class="home-paper__authors">Yibin Ao, <strong>Yi Long</strong>, Homa Bahmani</p>
-    <p class="home-paper__links"><a href="https://doi.org/10.1007/978-981-95-8856-5">DOI</a></p>
-  </article>
+# 📝 代表性成果
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='paper-thumb'>
+      <div class="badge">TR Part D 2026</div>
+      <span>城市韧性<br>共享单车</span>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Typhoon and Bike-Sharing: Non-linear Built Environment Associations with Activity Recovery in Shenzhen](https://doi.org/10.1016/j.trd.2026.105525)
+
+**Yi Long**, Haoran Jiang, Shaozhi Hong, Yangyang Su
+
+<span class="paper-box__meta">Transportation Research Part D: Transport and Environment, 159, 105525 (2026)</span>
+
+[**DOI**](https://doi.org/10.1016/j.trd.2026.105525)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='paper-thumb'>
+      <div class="badge">Transport Policy 2026</div>
+      <span>儿童出行<br>邻里环境</span>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[The Influence of Neighborhood Environments on Children’s Travel Mode Choices: An XGBoost/SHAP Model Analysis of Shuangliu District, Chengdu, China](https://doi.org/10.1016/j.tranpol.2025.103896)
+
+**Yi Long**, Yibin Ao, Mingyang Li, et al.
+
+<span class="paper-box__meta">Transport Policy, 175, 103896 (2026)</span>
+
+[**DOI**](https://doi.org/10.1016/j.tranpol.2025.103896)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='paper-thumb'>
+      <div class="badge">JTG 2025</div>
+      <span>乡村出行<br>方式选择</span>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[The Influence of Rural Built Environment on Residents’ Non-Commuting Travel Mode Choices](https://doi.org/10.1016/j.jtrangeo.2025.104330)
+
+Yibin Ao, **Yi Long**, Junjie Zheng, et al.
+
+<span class="paper-box__meta">Journal of Transport Geography, 128, 104330 (2025)</span>
+
+[**DOI**](https://doi.org/10.1016/j.jtrangeo.2025.104330)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='paper-thumb'>
+      <div class="badge">Book 2026</div>
+      <span>儿童友好<br>建成环境</span>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Child-Friendly Built Environments](https://doi.org/10.1007/978-981-95-8856-5)
+
+Yibin Ao, **Yi Long**, Homa Bahmani
+
+<span class="paper-box__meta">Springer Nature Singapore（2026）</span>
+
+[**DOI**](https://doi.org/10.1007/978-981-95-8856-5)
+  </div>
 </div>
 
 <p class="home-section-link"><a href="{{ site.url }}/publications/">查看完整论文列表</a></p>
 
-## 🎖 荣誉与奖励
+<span class='anchor' id='awards-zh'></span>
+
+# 🎖 荣誉与奖励
 
 <ul class="home-list">
   <li><em>2025.06</em> 成都理工大学优秀硕士学位论文。</li>
@@ -70,14 +127,18 @@ show_page_title: false
   <li><em>2021.07</em> 四川省大学生综合素质 A 级证书。</li>
 </ul>
 
-## 📖 教育经历
+<span class='anchor' id='education-zh'></span>
+
+# 📖 教育经历
 
 <ul class="home-list">
   <li><em>2025.09 - 2029.06</em> 同济大学，城市交通博士。</li>
   <li><em>2022.09 - 2025.06</em> 成都理工大学，土木水利硕士。</li>
 </ul>
 
-## 💼 学术服务
+<span class='anchor' id='service-zh'></span>
+
+# 💼 学术服务
 
 <ul class="home-list">
   <li>受邀审稿期刊：Applied Geography、Journal of Urban Mobility、BMC Public Health、Transportation、Applied Spatial Analysis and Policy、Journal of Asian Architecture and Building Engineering。</li>

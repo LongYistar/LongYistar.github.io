@@ -5,9 +5,11 @@ description: Personal website of Yi Long, PhD student at Tongji University.
 lang: en
 alternate_url: /file/aboutme-zh/
 show_page_title: false
+show_section_nav: false
+show_footer: false
 ---
 
-## About Me
+<span class='anchor' id='about-me'></span>
 
 <div class="home-intro">
   <p>I am <strong>Yi Long (龙毅)</strong>, a PhD student in Urban Mobility at Tongji University. I joined the program in September 2025 and am advised by <a href="https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043">Shaozhi Hong</a>. Previously, I received my MEng in Civil Engineering and Water Conservancy from Chengdu University of Technology under the supervision of <a href="https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm">Yibin Ao</a>.</p>
@@ -16,7 +18,9 @@ show_page_title: false
   <p>I am actively seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to broaden my research collaboration and international exchange. If you would like to discuss research, collaboration, or academic exchange, feel free to contact me at <a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a>.</p>
 </div>
 
-## 🔥 News
+<span class='anchor' id='news'></span>
+
+# 🔥 News
 
 <ul class="home-news">
   <li><span class="home-news__date">2026.07</span><span class="home-news__text">🎉🎉 One paper is accepted by <em>Transportation Research Part D: Transport and Environment</em>.</span></li>
@@ -27,38 +31,91 @@ show_page_title: false
   <li><span class="home-news__date">2025.03</span><span class="home-news__text">🎉🎉 One paper is published in <em>Science &amp; Technology Review</em>.</span></li>
 </ul>
 
-## 📝 Publications
+<span class='anchor' id='publications'></span>
 
-<div class="home-paper-list">
-  <article class="home-paper">
-    <p class="home-paper__venue">Transportation Research Part D: Transport and Environment, 159, 105525 (2026)</p>
-    <h3 class="home-paper__title"><a href="https://doi.org/10.1016/j.trd.2026.105525">Typhoon and Bike-Sharing: Non-linear Built Environment Associations with Activity Recovery in Shenzhen</a></h3>
-    <p class="home-paper__authors"><strong>Yi Long</strong>, Haoran Jiang, Shaozhi Hong, Yangyang Su</p>
-    <p class="home-paper__links"><a href="https://doi.org/10.1016/j.trd.2026.105525">DOI</a></p>
-  </article>
-  <article class="home-paper">
-    <p class="home-paper__venue">Transport Policy, 175, 103896 (2026)</p>
-    <h3 class="home-paper__title"><a href="https://doi.org/10.1016/j.tranpol.2025.103896">The Influence of Neighborhood Environments on Children’s Travel Mode Choices: An XGBoost/SHAP Model Analysis of Shuangliu District, Chengdu, China</a></h3>
-    <p class="home-paper__authors"><strong>Yi Long</strong>, Yibin Ao, Mingyang Li, et al.</p>
-    <p class="home-paper__links"><a href="https://doi.org/10.1016/j.tranpol.2025.103896">DOI</a></p>
-  </article>
-  <article class="home-paper">
-    <p class="home-paper__venue">Journal of Transport Geography, 128, 104330 (2025)</p>
-    <h3 class="home-paper__title"><a href="https://doi.org/10.1016/j.jtrangeo.2025.104330">The Influence of Rural Built Environment on Residents’ Non-Commuting Travel Mode Choices</a></h3>
-    <p class="home-paper__authors">Yibin Ao, <strong>Yi Long</strong>, Junjie Zheng, et al.</p>
-    <p class="home-paper__links"><a href="https://doi.org/10.1016/j.jtrangeo.2025.104330">DOI</a></p>
-  </article>
-  <article class="home-paper">
-    <p class="home-paper__venue">Book, Springer Nature Singapore (2026)</p>
-    <h3 class="home-paper__title"><a href="https://doi.org/10.1007/978-981-95-8856-5">Child-Friendly Built Environments</a></h3>
-    <p class="home-paper__authors">Yibin Ao, <strong>Yi Long</strong>, Homa Bahmani</p>
-    <p class="home-paper__links"><a href="https://doi.org/10.1007/978-981-95-8856-5">DOI</a></p>
-  </article>
+# 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='paper-thumb'>
+      <div class="badge">TR Part D 2026</div>
+      <span>Urban resilience<br>Bike-sharing</span>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Typhoon and Bike-Sharing: Non-linear Built Environment Associations with Activity Recovery in Shenzhen](https://doi.org/10.1016/j.trd.2026.105525)
+
+**Yi Long**, Haoran Jiang, Shaozhi Hong, Yangyang Su
+
+<span class="paper-box__meta">Transportation Research Part D: Transport and Environment, 159, 105525 (2026)</span>
+
+[**DOI**](https://doi.org/10.1016/j.trd.2026.105525)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='paper-thumb'>
+      <div class="badge">Transport Policy 2026</div>
+      <span>Children's travel<br>Built environment</span>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[The Influence of Neighborhood Environments on Children’s Travel Mode Choices: An XGBoost/SHAP Model Analysis of Shuangliu District, Chengdu, China](https://doi.org/10.1016/j.tranpol.2025.103896)
+
+**Yi Long**, Yibin Ao, Mingyang Li, et al.
+
+<span class="paper-box__meta">Transport Policy, 175, 103896 (2026)</span>
+
+[**DOI**](https://doi.org/10.1016/j.tranpol.2025.103896)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='paper-thumb'>
+      <div class="badge">JTG 2025</div>
+      <span>Rural travel<br>Mode choice</span>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[The Influence of Rural Built Environment on Residents’ Non-Commuting Travel Mode Choices](https://doi.org/10.1016/j.jtrangeo.2025.104330)
+
+Yibin Ao, **Yi Long**, Junjie Zheng, et al.
+
+<span class="paper-box__meta">Journal of Transport Geography, 128, 104330 (2025)</span>
+
+[**DOI**](https://doi.org/10.1016/j.jtrangeo.2025.104330)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='paper-thumb'>
+      <div class="badge">Book 2026</div>
+      <span>Child-friendly<br>Built environment</span>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Child-Friendly Built Environments](https://doi.org/10.1007/978-981-95-8856-5)
+
+Yibin Ao, **Yi Long**, Homa Bahmani
+
+<span class="paper-box__meta">Springer Nature Singapore (2026)</span>
+
+[**DOI**](https://doi.org/10.1007/978-981-95-8856-5)
+  </div>
 </div>
 
 <p class="home-section-link"><a href="{{ site.url }}/publications/">View full publication list</a></p>
 
-## 🎖 Honors and Awards
+<span class='anchor' id='awards'></span>
+
+# 🎖 Honors and Awards
 
 <ul class="home-list">
   <li><em>2025.06</em> Outstanding Master’s Thesis, Chengdu University of Technology.</li>
@@ -69,14 +126,18 @@ show_page_title: false
   <li><em>2021.07</em> Sichuan Provincial College Student Comprehensive Quality A-Level Certificate.</li>
 </ul>
 
-## 📖 Education
+<span class='anchor' id='education'></span>
+
+# 📖 Education
 
 <ul class="home-list">
   <li><em>2025.09 - 2029.06</em> PhD in Urban Mobility, Tongji University.</li>
   <li><em>2022.09 - 2025.06</em> MEng in Civil Engineering and Water Conservancy, Chengdu University of Technology.</li>
 </ul>
 
-## 💼 Academic Service
+<span class='anchor' id='service'></span>
+
+# 💼 Service
 
 <ul class="home-list">
   <li>Invited reviewer for Applied Geography, Journal of Urban Mobility, BMC Public Health, Transportation, Applied Spatial Analysis and Policy, and Journal of Asian Architecture and Building Engineering.</li>

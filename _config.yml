@@ -1,5 +1,6 @@
 title: Yi Long
 url: https://longyistar.github.io
+description: Researching built environment, travel behavior, and urban resilience.
 
 # Owner/author information
 owner:
@@ -9,6 +10,8 @@ owner:
   profile_photo: profile-portrait.jpg
   bio: PhD student at Tongji University researching built environment, travel behavior, and urban resilience.
   bio_zh: 同济大学城市交通博士研究生，研究建成环境、出行行为与城市韧性。
+  location: Shanghai, China
+  employer: Tongji University
   email: longyi.cn@outlook.com
   # Social networking links are used in the author sidebar.
   #twitter: lancecai2002

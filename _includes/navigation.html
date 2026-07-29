@@ -11,12 +11,18 @@
 {% if current_url == "" %}
   {% assign current_url = "/" %}
 {% endif %}
-{% assign home_url = "/" %}
+{% if page_lang == "zh" %}
+  {% assign home_url = "/file/aboutme-zh/" %}
+{% else %}
+  {% assign home_url = "/" %}
+{% endif %}
 {% assign site_name = site.title %}
 {% if page_lang == "zh" %}
   {% assign switch_label = "English" %}
+  {% assign home_label = "首页" %}
 {% else %}
   {% assign switch_label = "中文" %}
+  {% assign home_label = "Homepage" %}
 {% endif %}
 
 <div class="masthead">
@@ -25,12 +31,17 @@
       <nav id="site-nav" class="greedy-nav" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Primary">
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--home">
-            <a href="{{ site.url }}{{ home_url }}">{{ site_name }}</a>
+            <a href="{{ site.url }}{{ home_url }}">{{ home_label }}</a>
           </li>
           {% for link in nav_items %}
-            {% capture link_url %}{{ link.url | replace:'index.html','' }}{% endcapture %}
+            {% if page_lang == "zh" and link.url_zh %}
+              {% assign nav_href = link.url_zh %}
+            {% else %}
+              {% assign nav_href = link.url %}
+            {% endif %}
+            {% capture link_url %}{{ nav_href | replace:'index.html','' }}{% endcapture %}
             <li class="masthead__menu-item">
-              <a href="{{ site.url }}{{ link.url }}"{% if current_url == link_url %} class="is-current"{% endif %}>{{ link.title }}</a>
+              <a href="{{ site.url }}{{ nav_href }}"{% if current_url == link_url and link_url contains '#' == false %} class="is-current"{% endif %}>{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>

@@ -10,12 +10,12 @@
   {% assign owner_name = site.owner.name_zh | default: site.owner.name %}
   {% assign owner_bio = site.owner.bio_zh | default: site.owner.bio %}
   {% assign email_label = "邮箱" %}
-  {% assign cv_label = "简历" %}
+  {% assign scholar_label = "Google Scholar" %}
 {% else %}
   {% assign owner_name = site.owner.name %}
   {% assign owner_bio = site.owner.bio %}
   {% assign email_label = "Email" %}
-  {% assign cv_label = "Curriculum Vitae" %}
+  {% assign scholar_label = "Google Scholar" %}
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
@@ -29,41 +29,63 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <ul class="author__urls">
-      {% if site.owner.email %}
-        <li><span class="author__urls-label">{{ email_label }}</span><a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a></li>
+    <ul class="author__urls social-icons">
+      {% if site.description %}
+        <li><div class="author__description">{{ site.description }}</div></li>
       {% endif %}
-      {% if site.owner.cv %}
-        <li><span class="author__urls-label">{{ cv_label }}</span><a href="{{ site.owner.cv }}">{{ cv_label }}</a></li>
+      {% if site.owner.location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ site.owner.location }}</li>
+      {% endif %}
+      {% if site.owner.employer %}
+        <li><i class="fa fa-fw fa-university" aria-hidden="true"></i> {{ site.owner.employer }}</li>
+      {% endif %}
+      {% if site.owner.email %}
+        <li><a href="mailto:{{ site.owner.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ email_label }}</a></li>
       {% endif %}
       {% if site.owner.scholar %}
-        <li><span class="author__urls-label">Scholar</span><a href="{{ site.owner.scholar }}">Google Scholar</a></li>
+        <li><a href="{{ site.owner.scholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> {{ scholar_label }}</a></li>
       {% endif %}
       {% if site.owner.researchgate %}
-        <li><span class="author__urls-label">ResearchGate</span><a href="{{ site.owner.researchgate }}">ResearchGate</a></li>
+        <li><a href="{{ site.owner.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if site.owner.orcid %}
-        <li><span class="author__urls-label">ORCID</span><a href="{{ site.owner.orcid }}">ORCID</a></li>
+        <li><a href="{{ site.owner.orcid }}"><i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i> ORCID</a></li>
       {% endif %}
       {% if site.owner.github %}
-        <li><span class="author__urls-label">GitHub</span><a href="https://github.com/{{ site.owner.github }}">GitHub</a></li>
+        <li><a href="https://github.com/{{ site.owner.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
       {% endif %}
       {% if site.owner.linkedin %}
-        <li><span class="author__urls-label">LinkedIn</span><a href="https://linkedin.com/in/{{ site.owner.linkedin }}">LinkedIn</a></li>
+        <li><a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
     </ul>
+
+    <div class="author__urls_sm">
+      {% if site.owner.email %}
+        <a href="mailto:{{ site.owner.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if site.owner.scholar %}
+        <a href="{{ site.owner.scholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if site.owner.researchgate %}
+        <a href="{{ site.owner.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if site.owner.orcid %}
+        <a href="{{ site.owner.orcid }}"><i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if site.owner.github %}
+        <a href="https://github.com/{{ site.owner.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if site.owner.linkedin %}
+        <a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>
+      {% endif %}
+    </div>
   </div>
 
   <div class="visitor-counter" aria-label="{% if page_lang == 'zh' %}页面访问量{% else %}Page visits{% endif %}">
-    {% if page_lang == "zh" %}
-      <p class="visitor-counter__label">页面访问量</p>
-    {% else %}
-      <p class="visitor-counter__label">Page Visits</p>
-    {% endif %}
     <div class="visitor-counter__widget">
       <img
         class="visitor-counter__badge"
-        src="https://hits.sh/{{ site.url | remove:'https://' | remove:'http://' }}.svg?style=flat-square&label=Visits&color=2563eb&labelColor=1f2937"
+        src="https://hits.sh/{{ site.url | remove:'https://' | remove:'http://' }}.svg?style=flat-square&label=Page%20Views&color=2563eb&labelColor=1f2937"
         alt="{% if page_lang == 'zh' %}网站页面访问量{% else %}Website page visits{% endif %}">
     </div>
   </div>

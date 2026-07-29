@@ -1,7 +1,19 @@
 main:
   - title: About Me
-    url: /
+    url: /#about-me
+    url_zh: /file/aboutme-zh/#about-me-zh
+  - title: News
+    url: /#news
+    url_zh: /file/aboutme-zh/#news-zh
   - title: Publications
-    url: /publications/
+    url: /#publications
+    url_zh: /file/aboutme-zh/#publications-zh
   - title: Awards
-    url: /file/awards-zh/
+    url: /#awards
+    url_zh: /file/aboutme-zh/#awards-zh
+  - title: Education
+    url: /#education
+    url_zh: /file/aboutme-zh/#education-zh
+  - title: Service
+    url: /#service
+    url_zh: /file/aboutme-zh/#service-zh
