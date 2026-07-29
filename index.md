@@ -84,7 +84,7 @@ Yibin Ao, **Yi Long**, Homa Bahmani
 
 [The Influence of Neighborhood Environments on Children’s Travel Mode Choices: An XGBoost/SHAP Model Analysis of Shuangliu District, Chengdu, China](https://doi.org/10.1016/j.tranpol.2025.103896)
 
-**Yi Long**, Yibin Ao, Mingyang Li, et al.
+**Yi Long**, Yibin Ao*, Mingyang Li, Haimei Li, Homa Bahmani, Igor Martek
 
 <span class="paper-box__meta">Transport Policy, 175, 103896 (2026)</span>
 
@@ -103,7 +103,7 @@ Yibin Ao, **Yi Long**, Homa Bahmani
 
 [The Influence of Rural Built Environment on Residents’ Non-Commuting Travel Mode Choices](https://doi.org/10.1016/j.jtrangeo.2025.104330)
 
-Yibin Ao, **Yi Long**, Junjie Zheng, et al.
+Yibin Ao, **Yi Long**, Junjie Zheng*, Homa Bahmani
 
 <span class="paper-box__meta">Journal of Transport Geography, 128, 104330 (2025)</span>
 
@@ -122,7 +122,7 @@ Yibin Ao, **Yi Long**, Junjie Zheng, et al.
 
 [Non-linear Effects of Children’s Daily Travel Distance on Their Travel Mode Choice Considering Different Destinations](https://doi.org/10.1016/j.jtrangeo.2024.103921)
 
-**Yi Long**, Yibin Ao, Haimei Li, et al.
+**Yi Long**, Yibin Ao*, Haimei Li*, Homa Bahmani, Mingyang Li
 
 <span class="paper-box__meta">Journal of Transport Geography, 118, 103921 (2024)</span>
 
