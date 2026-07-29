@@ -206,7 +206,7 @@ h6,
   background: #fff;
 }
 
-.greedy-nav button,
+.greedy-nav > button,
 .greedy-nav .hidden-links,
 .greedy-nav .navicon {
   display: none;
