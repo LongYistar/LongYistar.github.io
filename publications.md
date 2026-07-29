@@ -7,6 +7,7 @@ lang: en
 
 ## Journal Articles
 
+- [**Yi Long**, Haoran Jiang, Shaozhi Hong, Yangyang Su. Typhoon and Bike-Sharing: Non-linear Built Environment Associations with Activity Recovery in Shenzhen[J]. Transportation Research Part D: Transport and Environment, 2026, 159: 105525.](https://doi.org/10.1016/j.trd.2026.105525)
 - [**Yi Long**, Yibin Ao*, Mingyang Li, et al., 2025. The influence of neighborhood environments on children’s travel mode choices: An XGBoost/SHAP model analysis of Shuangliu District, Chengdu, China[J]. Transport Policy, 2026, 175: 103896.](https://doi.org/10.1016/j.tranpol.2025.103896)
 - [Yibin Ao, **Yi Long**, Junjie Zheng*, et al. The influence of rural built environment on residents’ non-commuting travel mode choices[J]. Journal of Transport Geography, 2025, 128: 104330.](https://doi.org/10.1016/j.jtrangeo.2025.104330)
 - [Yinqiao Tao, Yibin Ao*, **Yi Long**, et al. Thermal performance of post-disaster housing and its impact on occupant comfort: An integrated ML-ABM approach[J]. Building and Environment, 2025, 281: 113205.](https://doi.org/10.1016/j.buildenv.2025.113205)
@@ -20,7 +21,7 @@ lang: en
 
 ## Book/Chapter
 
-- [Yibin Ao, **Yi Long**, Homa Bahmani. Child-Friendly Built Environments[M]. Resilient and Friendly Living Environments. Singapore: Springer Singapore, 2026.](https://doi.org/10.1007/978-981-95-8856-5)
+- [Yibin Ao, **Yi Long**, Homa Bahmani. Child-Friendly Built Environments[M]. Resilient and Friendly Living Environments. Singapore: Springer Nature Singapore, 2026.](https://doi.org/10.1007/978-981-95-8856-5)
 - [敖仪斌, **龙毅**, 陶垠桥, 李明校. 四川省蓝绿空间时空格局演变及其气候影响因素分析[M]. // 李晓燕, 李晟之主编; 王倩, 赵川副主编. 四川生态文明建设报告（2025）. 北京: 社会科学文献出版社, 2025: 122–137.](https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?siteId=14&contentId=16454271&contentType=literature)
 - [**Yi Long**, Mingyang Li, Panyu Peng, Yibin Ao*, et al. Spatial distribution of child-friendly facilities and its influence on low-carbon travel in urban planning[M]//HE B, CHEN T, LI Y, et al. Climate-resilient, low-carbon, and sustainable cities: Vol. 754. Singapore: Springer Nature Singapore, 2026: 493-505.](https://doi.org/10.1007/978-981-95-2169-2_27)
 

@@ -35,6 +35,8 @@ show_page_title: false
 
 ## 🔥 News
 
+- **2026.07:** 🎉🎉 One paper is accepted by *Transportation Research Part D: Transport and Environment*.
+- **2026.07:** 🎉🎉 The monograph *Child-Friendly Built Environments* is published by Springer Nature Singapore.
 - **2025.11:** 🎉🎉 One paper is accepted by *Transport Policy*.
 - **2025.07:** 🎉🎉 I completed the Autumn 2024 Tsinghua Interdisciplinary Research Ability Enhancement Program, "Big Data and Causal Inference Seminar."
 - **2025.06:** 🎉🎉 One paper is published in *Journal of Transport Geography*.

@@ -36,6 +36,8 @@ show_page_title: false
 
 ## 🔥 动态
 
+- **2026.07：** 🎉🎉 1 篇论文被 *Transportation Research Part D: Transport and Environment* 录用。
+- **2026.07：** 🎉🎉 专著 *Child-Friendly Built Environments* 由 Springer Nature Singapore 出版。
 - **2025.11：** 🎉🎉 1 篇论文被 *Transport Policy* 录用。
 - **2025.07：** 🎉🎉 顺利完成 2024 年秋季清华大学交叉学科研究能力提升计划“大数据与因果推断研讨班”。
 - **2025.06：** 🎉🎉 1 篇论文发表于 *Journal of Transport Geography*。
