@@ -363,6 +363,105 @@ h6,
   box-shadow: none;
 }
 
+.home-intro {
+  margin: 0 0 1.75rem;
+}
+
+.home-intro p {
+  margin: 0 0 1rem;
+  text-indent: 0;
+}
+
+.home-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.home-news {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0;
+}
+
+.home-news li {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr);
+  gap: 0.9rem;
+  margin: 0 0 0.8rem;
+  padding: 0;
+}
+
+.home-news__date {
+  color: var(--site-muted);
+  font-weight: 600;
+}
+
+.home-news__text {
+  min-width: 0;
+}
+
+.home-paper-list {
+  margin: 0;
+}
+
+.home-paper {
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--site-border);
+}
+
+.home-paper:first-child {
+  padding-top: 0.2rem;
+}
+
+.home-paper__venue {
+  margin: 0 0 0.35rem;
+  color: var(--site-muted);
+  font-size: 0.86rem;
+}
+
+.home-paper__title {
+  margin: 0 0 0.4rem;
+  font-size: 1.04rem;
+  line-height: 1.45;
+}
+
+.home-paper__authors,
+.home-paper__links {
+  margin: 0;
+  font-size: 0.92rem;
+}
+
+.home-paper__authors {
+  color: var(--site-text);
+}
+
+.home-paper__links {
+  margin-top: 0.35rem;
+  color: var(--site-muted);
+}
+
+.home-paper__links a,
+.home-paper__links a:visited {
+  border-bottom: 0;
+}
+
+.home-paper__links a + a {
+  margin-left: 0.9rem;
+}
+
+.home-section-link {
+  margin-top: 1rem;
+  text-indent: 0;
+}
+
+.home-list {
+  margin: 0;
+  padding-left: 1.15rem;
+}
+
+.home-list li {
+  margin-bottom: 0.7rem;
+}
+
 img.floatpic {
   float: right;
   width: min(28%, 14rem);
@@ -558,6 +657,11 @@ img.floatpic {
   text-align: center;
 }
 
+.profile_box > .visitor-counter {
+  margin-top: 1.2rem;
+  text-align: left;
+}
+
 .visitor-counter__label {
   margin: 0 0 0.8rem;
   color: var(--site-muted);
@@ -569,6 +673,10 @@ img.floatpic {
 .visitor-counter__widget {
   display: flex;
   justify-content: center;
+}
+
+.profile_box > .visitor-counter .visitor-counter__widget {
+  justify-content: flex-start;
 }
 
 .visitor-counter__badge {
@@ -602,6 +710,11 @@ img.floatpic {
   .author__content {
     margin-bottom: 0;
   }
+
+  .author__urls-wrapper,
+  .profile_box > .visitor-counter {
+    grid-column: 1 / -1;
+  }
 }
 
 @media (max-width: 56rem) {
@@ -624,6 +737,11 @@ img.floatpic {
   .page-section-nav__list {
     flex-wrap: nowrap;
     min-width: max-content;
+  }
+
+  .home-news li {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
   }
 
   .about-intro {

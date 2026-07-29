@@ -53,4 +53,18 @@
       {% endif %}
     </ul>
   </div>
+
+  <div class="visitor-counter" aria-label="{% if page_lang == 'zh' %}页面访问量{% else %}Page visits{% endif %}">
+    {% if page_lang == "zh" %}
+      <p class="visitor-counter__label">页面访问量</p>
+    {% else %}
+      <p class="visitor-counter__label">Page Visits</p>
+    {% endif %}
+    <div class="visitor-counter__widget">
+      <img
+        class="visitor-counter__badge"
+        src="https://hits.sh/{{ site.url | remove:'https://' | remove:'http://' }}.svg?style=flat-square&label=Visits&color=2563eb&labelColor=1f2937"
+        alt="{% if page_lang == 'zh' %}网站页面访问量{% else %}Website page visits{% endif %}">
+    </div>
+  </div>
 </div>

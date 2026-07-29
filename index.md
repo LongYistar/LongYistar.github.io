@@ -9,41 +9,77 @@ show_page_title: false
 
 ## About Me
 
-<div class="about-intro">
-  <div class="about-intro__text">
-    <p>I am <strong>Yi Long (龙毅)</strong>, a PhD student in Urban Mobility at Tongji University. I joined the program in September 2025 and am advised by <a href="https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043">Shaozhi Hong</a>.</p>
-    <p>My research examines how the built environment shapes travel behavior, with particular interests in agent-based modeling, applied machine learning, and resilience-oriented urban analysis.</p>
-    <p>If you would like to discuss research, collaboration, or academic exchange, feel free to contact me at <em>{{ site.owner.email }}</em>.</p>
-    <p>I have been invited to review for <a href="{{ site.url }}/file/Certificate_JAPG_Recognised.pdf">Applied Geography</a>, <a href="{{ site.url }}/file/BMC%20Public%20Health.pdf">BMC Public Health</a>, <em>Journal of Urban Mobility</em>, <a href="{{ site.url }}/file/Transportation.pdf">Transportation</a>, <a href="{{ site.url }}/file/Applied%20Spatial%20Analysis%20and%20Policy.pdf">Applied Spatial Analysis and Policy</a>, and <em>Journal of Asian Architecture and Building Engineering</em>.</p>
-    <p>I am actively seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to broaden my research collaboration and international exchange.</p>
-  </div>
-  <div class="about-intro__media">
-    <img src="{{ site.url }}/images/{{ site.owner.profile_photo }}" class="about-intro__image" alt="Portrait of Yi Long" width="989" height="1228">
-  </div>
+<div class="home-intro">
+  <p>I am <strong>Yi Long (龙毅)</strong>, a PhD student in Urban Mobility at Tongji University. I joined the program in September 2025 and am advised by <a href="https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043">Shaozhi Hong</a>. Previously, I received my MEng in Civil Engineering and Water Conservancy from Chengdu University of Technology under the supervision of <a href="https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm">Yibin Ao</a>.</p>
+  <p>My research examines how the built environment shapes travel behavior, with particular interests in agent-based modeling, applied machine learning, and resilience-oriented urban analysis. I work on travel behavior resilience under disasters, non-linear built environment effects, and the coordination of mobility systems with EV charging infrastructure and urban energy resilience.</p>
+  <p>I serve as an invited reviewer for <a href="{{ site.url }}/file/Certificate_JAPG_Recognised.pdf">Applied Geography</a>, <em>Journal of Urban Mobility</em>, <a href="{{ site.url }}/file/BMC%20Public%20Health.pdf">BMC Public Health</a>, <a href="{{ site.url }}/file/Transportation.pdf">Transportation</a>, <a href="{{ site.url }}/file/Applied%20Spatial%20Analysis%20and%20Policy.pdf">Applied Spatial Analysis and Policy</a>, and <em>Journal of Asian Architecture and Building Engineering</em>.</p>
+  <p>I am actively seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to broaden my research collaboration and international exchange. If you would like to discuss research, collaboration, or academic exchange, feel free to contact me at <a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a>.</p>
 </div>
-
-## Academic Background
-
-- **Sep 2025 - Jun 2029:** PhD in Urban Mobility, Tongji University, supervised by [Shaozhi Hong](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043).
-- **Sep 2022 - Jun 2025:** MEng in Civil Engineering and Water Conservancy, Chengdu University of Technology, supervised by [Yibin Ao](https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm).
-
-## Research Interests
-
-- **Built environment and travel behavior:** I study how neighborhood form, accessibility, and surrounding facilities shape daily travel decisions through machine learning and agent-based modeling.
-- **Travel behavior resilience under disasters:** I use large-scale data to examine how travelers respond to disruptive events and how adaptive strategies vary across groups and contexts.
-- **Built environment, EV charging infrastructure, and urban energy resilience:** I explore how planning, mobility systems, and charging infrastructure can be coordinated to support low-carbon and resilient urban development.
 
 ## 🔥 News
 
-- **2026.07:** 🎉🎉 One paper is accepted by *Transportation Research Part D: Transport and Environment*.
-- **2026.07:** 🎉🎉 The monograph *Child-Friendly Built Environments* is published by Springer Nature Singapore.
-- **2025.11:** 🎉🎉 One paper is accepted by *Transport Policy*.
-- **2025.07:** 🎉🎉 I completed the Autumn 2024 Tsinghua Interdisciplinary Research Ability Enhancement Program, "Big Data and Causal Inference Seminar."
-- **2025.06:** 🎉🎉 One paper is published in *Journal of Transport Geography*.
-- **2025.03:** 🎉🎉 One paper is published in *Science & Technology Review*.
-- **2024.11:** 🎉🎉 I presented at the Conference on High-Quality Urban Development and Beautiful Countryside Construction in Mianyang, China.
-- **2024.10:** 🎉🎉 I received the National Scholarship for Postgraduate Students of China.
-- **2024.09:** 🎉🎉 I received the Outstanding Paper Award at the 2024 Annual Academic Seminar of the China Society of Territorial Economics.
-- **2024.06:** 🎉🎉 I presented at WTC 2024 and published one paper in *Journal of Transport Geography*.
-- **2024.04:** 🎉🎉 I completed the Autumn 2023 Tsinghua Interdisciplinary Research Ability Enhancement Program, "Big Data and Causal Inference Seminar."
-- **2023.11:** 🎉🎉 I received the Second Prize for Excellent Presentation at the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption Youth Academic Sub-Session.
+<ul class="home-news">
+  <li><span class="home-news__date">2026.07</span><span class="home-news__text">🎉🎉 One paper is accepted by <em>Transportation Research Part D: Transport and Environment</em>.</span></li>
+  <li><span class="home-news__date">2026.07</span><span class="home-news__text">🎉🎉 The monograph <em>Child-Friendly Built Environments</em> is published by Springer Nature Singapore.</span></li>
+  <li><span class="home-news__date">2025.11</span><span class="home-news__text">🎉🎉 One paper is accepted by <em>Transport Policy</em>.</span></li>
+  <li><span class="home-news__date">2025.07</span><span class="home-news__text">🎉🎉 I completed the Autumn 2024 Tsinghua Interdisciplinary Research Ability Enhancement Program, "Big Data and Causal Inference Seminar."</span></li>
+  <li><span class="home-news__date">2025.06</span><span class="home-news__text">🎉🎉 One paper is published in <em>Journal of Transport Geography</em>.</span></li>
+  <li><span class="home-news__date">2025.03</span><span class="home-news__text">🎉🎉 One paper is published in <em>Science &amp; Technology Review</em>.</span></li>
+</ul>
+
+## 📝 Publications
+
+<div class="home-paper-list">
+  <article class="home-paper">
+    <p class="home-paper__venue">Transportation Research Part D: Transport and Environment, 159, 105525 (2026)</p>
+    <h3 class="home-paper__title"><a href="https://doi.org/10.1016/j.trd.2026.105525">Typhoon and Bike-Sharing: Non-linear Built Environment Associations with Activity Recovery in Shenzhen</a></h3>
+    <p class="home-paper__authors"><strong>Yi Long</strong>, Haoran Jiang, Shaozhi Hong, Yangyang Su</p>
+    <p class="home-paper__links"><a href="https://doi.org/10.1016/j.trd.2026.105525">DOI</a></p>
+  </article>
+  <article class="home-paper">
+    <p class="home-paper__venue">Transport Policy, 175, 103896 (2026)</p>
+    <h3 class="home-paper__title"><a href="https://doi.org/10.1016/j.tranpol.2025.103896">The Influence of Neighborhood Environments on Children’s Travel Mode Choices: An XGBoost/SHAP Model Analysis of Shuangliu District, Chengdu, China</a></h3>
+    <p class="home-paper__authors"><strong>Yi Long</strong>, Yibin Ao, Mingyang Li, et al.</p>
+    <p class="home-paper__links"><a href="https://doi.org/10.1016/j.tranpol.2025.103896">DOI</a></p>
+  </article>
+  <article class="home-paper">
+    <p class="home-paper__venue">Journal of Transport Geography, 128, 104330 (2025)</p>
+    <h3 class="home-paper__title"><a href="https://doi.org/10.1016/j.jtrangeo.2025.104330">The Influence of Rural Built Environment on Residents’ Non-Commuting Travel Mode Choices</a></h3>
+    <p class="home-paper__authors">Yibin Ao, <strong>Yi Long</strong>, Junjie Zheng, et al.</p>
+    <p class="home-paper__links"><a href="https://doi.org/10.1016/j.jtrangeo.2025.104330">DOI</a></p>
+  </article>
+  <article class="home-paper">
+    <p class="home-paper__venue">Book, Springer Nature Singapore (2026)</p>
+    <h3 class="home-paper__title"><a href="https://doi.org/10.1007/978-981-95-8856-5">Child-Friendly Built Environments</a></h3>
+    <p class="home-paper__authors">Yibin Ao, <strong>Yi Long</strong>, Homa Bahmani</p>
+    <p class="home-paper__links"><a href="https://doi.org/10.1007/978-981-95-8856-5">DOI</a></p>
+  </article>
+</div>
+
+<p class="home-section-link"><a href="{{ site.url }}/publications/">View full publication list</a></p>
+
+## 🎖 Honors and Awards
+
+<ul class="home-list">
+  <li><em>2025.06</em> Outstanding Master’s Thesis, Chengdu University of Technology.</li>
+  <li><em>2025.06</em> Outstanding Graduate, Chengdu University of Technology.</li>
+  <li><em>2024.10</em> National Scholarship for Postgraduate Students.</li>
+  <li><em>2024.09</em> Outstanding Paper Award at the 2024 Annual Academic Seminar of the China Society of Territorial Economics.</li>
+  <li><em>2023.11</em> Second Prize for Excellent Presentation at the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption, Youth Session.</li>
+  <li><em>2021.07</em> Sichuan Provincial College Student Comprehensive Quality A-Level Certificate.</li>
+</ul>
+
+## 📖 Education
+
+<ul class="home-list">
+  <li><em>2025.09 - 2029.06</em> PhD in Urban Mobility, Tongji University.</li>
+  <li><em>2022.09 - 2025.06</em> MEng in Civil Engineering and Water Conservancy, Chengdu University of Technology.</li>
+</ul>
+
+## 💼 Academic Service
+
+<ul class="home-list">
+  <li>Invited reviewer for Applied Geography, Journal of Urban Mobility, BMC Public Health, Transportation, Applied Spatial Analysis and Policy, and Journal of Asian Architecture and Building Engineering.</li>
+  <li><em>2024.02 - 2025.07</em> Student Member, China Highway &amp; Transportation Society.</li>
+  <li><em>2024.01 - 2025.07</em> Student Member, Engineering Construction Management Committee, Chinese Society of Technology Economics.</li>
+</ul>
