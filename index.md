@@ -4,6 +4,7 @@ title: About Me
 description: Personal website of Yi Long, PhD student at Tongji University.
 lang: en
 alternate_url: /file/aboutme-zh/
+page_class: page--home-profile
 show_page_title: false
 show_section_nav: false
 show_footer: false
@@ -13,9 +14,14 @@ show_footer: false
 
 <div class="home-intro">
   <p>I am <strong>Yi Long (龙毅)</strong>, a PhD student in Urban Mobility at Tongji University. I joined the program in September 2025 and am advised by <a href="https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043">Shaozhi Hong</a>. Previously, I received my MEng in Civil Engineering and Water Conservancy from Chengdu University of Technology under the supervision of <a href="https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm">Yibin Ao</a>.</p>
-  <p>My research examines how the built environment shapes travel behavior, with particular interests in agent-based modeling, applied machine learning, and resilience-oriented urban analysis. I work on travel behavior resilience under disasters, non-linear built environment effects, and the coordination of mobility systems with EV charging infrastructure and urban energy resilience.</p>
+  <p>I have published 10+ papers in international journals such as <em>Transportation Research Part D: Transport and Environment</em>, <em>Transport Policy</em>, <em>Journal of Transport Geography</em>, <em>Building and Environment</em>, and <em>Public Health</em>.</p>
+  <ul class="home-intro-list">
+    <li><strong>Built environment and travel behavior.</strong> I study how neighborhood, rural, and child-friendly environments shape travel mode choice, travel distance, and daily activity patterns, with a focus on non-linear, threshold, and spatially heterogeneous effects.</li>
+    <li><strong>Mobility resilience under disruption.</strong> I examine how typhoons and other extreme-weather events affect mobility recovery, especially bike-sharing activity and service-use restoration across urban space.</li>
+    <li><strong>Mobility-energy system coordination.</strong> I combine agent-based modeling, interpretable machine learning, and spatial analysis to study the coordination of travel demand, EV charging infrastructure, and urban energy resilience.</li>
+  </ul>
   <p>I serve as an invited reviewer for <a href="{{ site.url }}/file/Certificate_JAPG_Recognised.pdf">Applied Geography</a>, <em>Journal of Urban Mobility</em>, <a href="{{ site.url }}/file/BMC%20Public%20Health.pdf">BMC Public Health</a>, <a href="{{ site.url }}/file/Transportation.pdf">Transportation</a>, <a href="{{ site.url }}/file/Applied%20Spatial%20Analysis%20and%20Policy.pdf">Applied Spatial Analysis and Policy</a>, and <em>Journal of Asian Architecture and Building Engineering</em>.</p>
-  <p>I am actively seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to broaden my research collaboration and international exchange. If you would like to discuss research, collaboration, or academic exchange, feel free to contact me at <a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a>.</p>
+  <p>I am actively seeking opportunities for a CSC-funded joint PhD program or visiting scholar position to broaden my research collaboration and international exchange. I am also open to collaborations. If you would like to discuss research, collaboration, or academic exchange, feel free to contact me at <a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a>.</p>
 </div>
 
 <span class='anchor' id='news'></span>
@@ -136,13 +142,17 @@ Yibin Ao, **Yi Long**, Junjie Zheng*, Homa Bahmani
 
 # Awards
 
+<p class="home-summary">I have received 15 provincial-level or higher honors, including 2 international, 4 national, and 9 provincial awards. Selected distinctions are listed below.</p>
+
 <ul class="home-list">
-  <li><em>2025.06</em> Outstanding Master’s Thesis, Chengdu University of Technology.</li>
-  <li><em>2025.06</em> Outstanding Graduate, Chengdu University of Technology.</li>
-  <li><em>2024.10</em> National Scholarship for Postgraduate Students.</li>
-  <li><em>2024.09</em> Outstanding Paper Award at the 2024 Annual Academic Seminar of the China Society of Territorial Economics.</li>
-  <li><em>2023.11</em> Second Prize for Excellent Presentation at the First Academic Seminar on Life Carbon Emissions and Sustainable Consumption, Youth Session.</li>
-  <li><em>2021.07</em> Sichuan Provincial College Student Comprehensive Quality A-Level Certificate.</li>
+  <li><em>2024</em> National Scholarship for Postgraduate Students, Ministry of Education of China.</li>
+  <li><em>2024</em> Outstanding Paper Award, Annual Conference of the China Society of Territorial Economics.</li>
+  <li><em>2021</em> Second Prize, National College Student Mathematics Competition (Non-Mathematics Majors), Chinese Mathematical Society.</li>
+  <li><em>2020</em> National Second Prize, Contemporary Undergraduate Mathematical Contest in Modeling.</li>
+  <li><em>2020, 2021</em> Third Prize, U.S. Mathematical Contest in Modeling.</li>
+  <li><em>2021</em> Sichuan Provincial College Student Comprehensive Quality A-Level Certificate.</li>
+  <li><em>2020</em> First Prize (Champion), Sichuan BIM Modeling Competition.</li>
+  <li><em>2019</em> National Encouragement Scholarship.</li>
 </ul>
 
 <span class='anchor' id='education'></span>

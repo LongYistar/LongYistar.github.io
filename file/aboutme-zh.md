@@ -5,6 +5,7 @@ title: 个人简介
 description: 龙毅个人简介页面。
 lang: zh
 alternate_url: /
+page_class: page--home-profile
 show_page_title: false
 show_section_nav: false
 show_footer: false
@@ -14,9 +15,14 @@ show_footer: false
 
 <div class="home-intro">
   <p>你好，我是 <strong>龙毅 (Yi Long)</strong>，现为同济大学城市交通博士研究生，2025 年 9 月入学，师从 <a href="https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=14043">洪少枝</a>。此前，我在成都理工大学完成土木水利硕士学习，导师为 <a href="https://faculty.cdut.edu.cn/AYB/zh_CN/index/68596/list/index.htm">敖仪斌</a>。</p>
-  <p>我的研究主要聚焦建成环境与出行行为之间的关系，重点包括智能体建模、机器学习应用，以及面向韧性城市的交通与空间分析。我关注灾害情境下的出行恢复、建成环境的非线性效应，以及出行系统、充电基础设施与城市能源韧性的协同问题。</p>
+  <p>目前已在 <em>Transportation Research Part D: Transport and Environment</em>、<em>Transport Policy</em>、<em>Journal of Transport Geography</em>、<em>Building and Environment</em>、<em>Public Health</em> 等国际期刊发表 10 余篇论文。</p>
+  <ul class="home-intro-list">
+    <li><strong>建成环境与出行行为。</strong> 我关注邻里、乡村与儿童友好环境如何影响出行方式选择、出行距离与日常活动模式，重点分析非线性、阈值与空间异质性效应。</li>
+    <li><strong>灾害情境下的交通韧性。</strong> 我研究台风与极端天气冲击下的出行恢复过程，尤其关注共享单车活动强度与城市服务使用恢复在空间上的差异。</li>
+    <li><strong>交通-能源系统协同。</strong> 我结合智能体建模、可解释机器学习与空间分析，研究出行需求、EV 充电基础设施与城市能源韧性的协同优化。</li>
+  </ul>
   <p>我受邀为 <a href="{{ site.url }}/file/Certificate_JAPG_Recognised.pdf">Applied Geography</a>、<em>Journal of Urban Mobility</em>、<a href="{{ site.url }}/file/BMC%20Public%20Health.pdf">BMC Public Health</a>、<a href="{{ site.url }}/file/Transportation.pdf">Transportation</a>、<a href="{{ site.url }}/file/Applied%20Spatial%20Analysis%20and%20Policy.pdf">Applied Spatial Analysis and Policy</a> 以及 <em>Journal of Asian Architecture and Building Engineering</em> 审稿。</p>
-  <p>我目前也在积极寻找 CSC 资助的联合培养博士或访问学者机会，以拓展国际合作与学术交流。如需讨论研究合作、论文交流或学术访问，欢迎通过 <a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a> 与我联系。</p>
+  <p>我目前也在积极寻找 CSC 资助的联合培养博士或访问学者机会，以拓展国际合作与学术交流。我也始终欢迎研究合作、论文交流与学术访问，欢迎通过 <a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a> 与我联系。</p>
 </div>
 
 <span class='anchor' id='news-zh'></span>
@@ -137,13 +143,17 @@ Yibin Ao, **Yi Long**, Junjie Zheng*, Homa Bahmani
 
 # 荣誉与奖励
 
+<p class="home-summary">共计获得省级以上奖项 15 项，其中国际性 2 项、国家级 4 项、省级 9 项。以下列出部分代表性荣誉。</p>
+
 <ul class="home-list">
-  <li><em>2025.06</em> 成都理工大学优秀硕士学位论文。</li>
-  <li><em>2025.06</em> 成都理工大学优秀毕业研究生。</li>
-  <li><em>2024.10</em> 研究生国家奖学金。</li>
-  <li><em>2024.09</em> 2024 年中国国土经济学会学术年会优秀论文奖。</li>
-  <li><em>2023.11</em> 第一届生活碳排放与可持续消费学术研讨会青年学术分会优秀交流报告二等奖。</li>
-  <li><em>2021.07</em> 四川省大学生综合素质 A 级证书。</li>
+  <li><em>2024</em> 研究生国家奖学金，中华人民共和国教育部。</li>
+  <li><em>2024</em> 中国国土经济学会年会优秀论文。</li>
+  <li><em>2021</em> 全国大学生数学竞赛（非数学类）二等奖，中国数学学会。</li>
+  <li><em>2020</em> 全国大学生数学建模竞赛全国二等奖，教育部十大学科竞赛。</li>
+  <li><em>2020, 2021</em> 美国大学生数学建模竞赛三等奖，美国数学学会、美国工业与应用数学学会。</li>
+  <li><em>2021</em> 四川省大学生综合素质 A 级证书，共青团四川省委、四川省学生联合会。</li>
+  <li><em>2020</em> 四川省大学生 BIM 建模竞赛一等奖（冠军），四川省教育厅。</li>
+  <li><em>2019</em> 国家励志奖学金，四川省教育厅。</li>
 </ul>
 
 <span class='anchor' id='education-zh'></span>

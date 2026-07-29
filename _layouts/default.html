@@ -11,7 +11,7 @@
 <head>
 {% include head.html %}
 </head>
-<body class="{{ page.layout | default: 'page' }}" itemscope itemtype="http://schema.org/WebPage">
+<body class="{{ page.layout | default: 'page' }}{% if page.page_class %} {{ page.page_class }}{% endif %}" itemscope itemtype="http://schema.org/WebPage">
 {% include chrome-frame.html %}
 {% include navigation.html %}
 
