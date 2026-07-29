@@ -20,9 +20,17 @@
 {% if page_lang == "zh" %}
   {% assign switch_label = "English" %}
   {% assign home_label = "首页" %}
+  {% assign theme_label_light = "夜晚" %}
+  {% assign theme_label_dark = "白天" %}
+  {% assign theme_aria_light = "切换到夜间主题" %}
+  {% assign theme_aria_dark = "切换到白天主题" %}
 {% else %}
   {% assign switch_label = "中文" %}
   {% assign home_label = "Homepage" %}
+  {% assign theme_label_light = "Night" %}
+  {% assign theme_label_dark = "Day" %}
+  {% assign theme_aria_light = "Switch to dark theme" %}
+  {% assign theme_aria_dark = "Switch to light theme" %}
 {% endif %}
 
 <div class="masthead">
@@ -45,9 +53,26 @@
             </li>
           {% endfor %}
         </ul>
-        {% if page.alternate_url %}
+        {% if page.page_class == "page--home-profile" or page.alternate_url %}
           <div class="masthead__menu-meta">
+            {% if page.page_class == "page--home-profile" %}
+              <button
+                class="theme-toggle"
+                type="button"
+                data-theme-toggle
+                data-label-light="{{ theme_label_light }}"
+                data-label-dark="{{ theme_label_dark }}"
+                data-aria-light="{{ theme_aria_light }}"
+                data-aria-dark="{{ theme_aria_dark }}"
+                aria-label="{{ theme_aria_light }}"
+                aria-pressed="false">
+                <span class="theme-toggle__icon" data-theme-toggle-icon aria-hidden="true">☾</span>
+                <span class="theme-toggle__label" data-theme-toggle-label>{{ theme_label_light }}</span>
+              </button>
+            {% endif %}
+            {% if page.alternate_url %}
             <a class="language-switch" href="{{ site.url }}{{ page.alternate_url }}">{{ switch_label }}</a>
+            {% endif %}
           </div>
         {% endif %}
       </nav>

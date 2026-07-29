@@ -9,6 +9,18 @@
 <!doctype html>
 <html class="no-js" lang="{% if page_lang == 'zh' %}zh-CN{% else %}en{% endif %}">
 <head>
+<script>
+  (function() {
+    var theme = "light";
+    try {
+      theme = window.localStorage.getItem("yl-home-theme") || "";
+    } catch (error) {}
+    if (!theme && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+      theme = "dark";
+    }
+    document.documentElement.setAttribute("data-theme", theme || "light");
+  })();
+</script>
 {% include head.html %}
 </head>
 <body class="{{ page.layout | default: 'page' }}{% if page.page_class %} {{ page.page_class }}{% endif %}" itemscope itemtype="http://schema.org/WebPage">
