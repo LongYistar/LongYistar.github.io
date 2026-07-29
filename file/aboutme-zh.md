@@ -38,9 +38,9 @@ show_footer: false
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='paper-thumb'>
+    <div class='paper-card-media paper-card-media--workflow'>
       <div class="badge">TR Part D 2026</div>
-      <span>城市韧性<br>共享单车</span>
+      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/trd-workflow.png' alt='Typhoon and Bike-Sharing 论文工作流图'>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -57,9 +57,9 @@ show_footer: false
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='paper-thumb'>
+    <div class='paper-card-media paper-card-media--workflow'>
       <div class="badge">Transport Policy 2026</div>
-      <span>儿童出行<br>邻里环境</span>
+      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/tranpol-workflow.png' alt='儿童出行方式论文方法图'>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -77,8 +77,7 @@ show_footer: false
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='paper-thumb'>
-      <div class="badge">JTG 2025</div>
-      <span>乡村出行<br>方式选择</span>
+      <span>The influence of rural built environment on residents’ non-commuting travel mode choices</span>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -95,9 +94,9 @@ Yibin Ao, **Yi Long**, Junjie Zheng, et al.
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class='paper-thumb'>
+    <div class='paper-card-media paper-card-media--book'>
       <div class="badge">Book 2026</div>
-      <span>儿童友好<br>建成环境</span>
+      <img class='paper-card-media__image' src='{{ site.url }}/images/papers/child-friendly-book-cover.jpg' alt='Child-Friendly Built Environments 书籍封面'>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
