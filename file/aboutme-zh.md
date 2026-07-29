@@ -21,7 +21,7 @@ show_footer: false
 
 <span class='anchor' id='news-zh'></span>
 
-# 🔥 动态
+# 动态
 
 <ul class="home-news">
   <li><span class="home-news__date">2026.07</span><span class="home-news__text">🎉🎉 1 篇论文被 <em>Transportation Research Part D: Transport and Environment</em> 录用。</span></li>
@@ -34,7 +34,7 @@ show_footer: false
 
 <span class='anchor' id='publications-zh'></span>
 
-# 📝 代表性成果
+# 代表性成果
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -116,7 +116,7 @@ Yibin Ao, **Yi Long**, Homa Bahmani
 
 <span class='anchor' id='awards-zh'></span>
 
-# 🎖 荣誉与奖励
+# 荣誉与奖励
 
 <ul class="home-list">
   <li><em>2025.06</em> 成都理工大学优秀硕士学位论文。</li>
@@ -129,7 +129,7 @@ Yibin Ao, **Yi Long**, Homa Bahmani
 
 <span class='anchor' id='education-zh'></span>
 
-# 📖 教育经历
+# 教育经历
 
 <ul class="home-list">
   <li><em>2025.09 - 2029.06</em> 同济大学，城市交通博士。</li>
@@ -138,7 +138,7 @@ Yibin Ao, **Yi Long**, Homa Bahmani
 
 <span class='anchor' id='service-zh'></span>
 
-# 💼 学术服务
+# 学术服务
 
 <ul class="home-list">
   <li>受邀审稿期刊：Applied Geography、Journal of Urban Mobility、BMC Public Health、Transportation、Applied Spatial Analysis and Policy、Journal of Asian Architecture and Building Engineering。</li>

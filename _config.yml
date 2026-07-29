@@ -13,6 +13,8 @@ owner:
   location: Shanghai, China
   employer: Tongji University
   email: longyi.cn@outlook.com
+  pageviews_map_embed:
+  # Paste your own visitor-map embed code here to replace the fallback page views card.
   # Social networking links are used in the author sidebar.
   #twitter: lancecai2002
   #github: LongYistar

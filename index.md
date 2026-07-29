@@ -20,7 +20,7 @@ show_footer: false
 
 <span class='anchor' id='news'></span>
 
-# 🔥 News
+# News
 
 <ul class="home-news">
   <li><span class="home-news__date">2026.07</span><span class="home-news__text">🎉🎉 One paper is accepted by <em>Transportation Research Part D: Transport and Environment</em>.</span></li>
@@ -33,7 +33,7 @@ show_footer: false
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications
+# Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -115,7 +115,7 @@ Yibin Ao, **Yi Long**, Homa Bahmani
 
 <span class='anchor' id='awards'></span>
 
-# 🎖 Honors and Awards
+# Awards
 
 <ul class="home-list">
   <li><em>2025.06</em> Outstanding Master’s Thesis, Chengdu University of Technology.</li>
@@ -128,7 +128,7 @@ Yibin Ao, **Yi Long**, Homa Bahmani
 
 <span class='anchor' id='education'></span>
 
-# 📖 Education
+# Education
 
 <ul class="home-list">
   <li><em>2025.09 - 2029.06</em> PhD in Urban Mobility, Tongji University.</li>
@@ -137,7 +137,7 @@ Yibin Ao, **Yi Long**, Homa Bahmani
 
 <span class='anchor' id='service'></span>
 
-# 💼 Service
+# Service
 
 <ul class="home-list">
   <li>Invited reviewer for Applied Geography, Journal of Urban Mobility, BMC Public Health, Transportation, Applied Spatial Analysis and Policy, and Journal of Asian Architecture and Building Engineering.</li>

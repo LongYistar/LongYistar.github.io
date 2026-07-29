@@ -10,7 +10,7 @@
   --site-link: #224b8d;
   --site-link-hover: #1a386a;
   --site-max-width: 1280px;
-  --site-sidebar-width: 190px;
+  --site-sidebar-width: 205px;
   --site-content-width: 925px;
   --site-font: "Trebuchet MS", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 }
@@ -27,7 +27,7 @@ textarea {
 }
 
 html {
-  font-size: 15px;
+  font-size: 14px;
 }
 
 body {
@@ -296,6 +296,7 @@ h6,
 
 .page__content {
   min-width: 0;
+  font-size: 1rem;
 }
 
 .article-wrap {
@@ -311,28 +312,39 @@ h6,
   margin-bottom: 0;
 }
 
+.article-wrap h1,
 .article-wrap h2,
 .article-wrap h3,
 .article-wrap h4 {
   color: var(--site-text);
 }
 
-.article-wrap h2 {
-  margin: 2rem 0 1rem;
-  padding-bottom: 0.5rem;
-  font-size: 1.36rem;
-  font-weight: 600;
-  line-height: 1.5;
+.article-wrap h1 {
+  margin: 1em 0 0.5em;
+  padding-bottom: 0.45em;
+  font-size: 1.32em;
+  font-weight: 700;
+  line-height: 1.25;
   border-bottom: 1px solid var(--site-border);
 }
 
+.article-wrap h2 {
+  margin: 1.15rem 0 0.55rem;
+  padding-bottom: 0.3rem;
+  font-size: 1.08em;
+  font-weight: 600;
+  line-height: 1.25;
+  border-bottom: 0;
+}
+
+.article-wrap h1:first-child,
 .article-wrap h2:first-child {
   margin-top: 0;
 }
 
 .article-wrap h3 {
-  margin: 1.4rem 0 0.8rem;
-  font-size: 1.08rem;
+  margin: 1rem 0 0.5rem;
+  font-size: 0.98em;
   font-weight: 600;
 }
 
@@ -348,6 +360,7 @@ h6,
 .article-wrap table,
 .article-wrap dd {
   font-size: 1rem;
+  line-height: 1.55;
 }
 
 .article-wrap ul,
@@ -412,20 +425,26 @@ h6,
 }
 
 .home-news li {
-  display: grid;
-  grid-template-columns: 5.5rem minmax(0, 1fr);
-  gap: 0.9rem;
-  margin: 0 0 0.8rem;
+  display: block;
+  margin: 0 0 0.55rem;
   padding: 0;
+  line-height: 1.55;
 }
 
 .home-news__date {
-  color: var(--site-muted);
-  font-weight: 600;
+  color: var(--site-text);
+  font-style: italic;
+  font-weight: 400;
+  margin-right: 0.2rem;
+}
+
+.home-news__date:after {
+  content: ":";
+  margin-left: 0.12rem;
 }
 
 .home-news__text {
-  min-width: 0;
+  display: inline;
 }
 
 .anchor:before {
@@ -667,14 +686,14 @@ img.floatpic {
 .author__name {
   margin: 0;
   color: var(--site-text);
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 700;
 }
 
 .author__bio {
   margin: 0.4rem 0 0;
   color: var(--site-muted);
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   line-height: 1.5;
 }
 
@@ -697,6 +716,7 @@ img.floatpic {
 .author__urls li {
   display: block;
   margin: 0 0 0.65rem;
+  font-size: 0.92rem;
 }
 
 .author__urls li:last-child {
@@ -828,16 +848,67 @@ img.floatpic {
 .visitor-counter__widget {
   display: flex;
   justify-content: flex-start;
+  align-items: flex-start;
+  min-height: 0;
+  width: 100%;
 }
 
 .profile_box > .visitor-counter .visitor-counter__widget {
   justify-content: flex-start;
 }
 
-.visitor-counter__badge {
-  display: block;
-  width: auto;
+.visitor-counter__widget > * {
   max-width: 100%;
+}
+
+.visitor-counter__widget iframe,
+.visitor-counter__widget img,
+.visitor-counter__widget canvas {
+  max-width: 100%;
+}
+
+.pageviews-fallback {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  max-width: 230px;
+  min-height: 148px;
+  padding: 0.65rem 0.75rem 0.8rem;
+  background: #4f7fb4;
+  color: #fff;
+}
+
+.pageviews-fallback__count {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+
+.pageviews-fallback__title {
+  margin-bottom: 0.45rem;
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.pageviews-fallback__badge {
+  display: inline-block;
+  max-width: 100%;
+  vertical-align: top;
+}
+
+.pageviews-fallback__map {
+  position: absolute;
+  left: 0.65rem;
+  right: 0.65rem;
+  bottom: 0.45rem;
+  width: calc(100% - 1.3rem);
+  height: auto;
+  opacity: 0.9;
+  filter: brightness(0) invert(1);
+  pointer-events: none;
 }
 
 .footer_site a,
@@ -907,11 +978,6 @@ img.floatpic {
   .page-section-nav__list {
     flex-wrap: nowrap;
     min-width: max-content;
-  }
-
-  .home-news li {
-    grid-template-columns: 1fr;
-    gap: 0.2rem;
   }
 
   .paper-box .paper-box-image {

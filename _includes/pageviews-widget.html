@@ -1,0 +1,18 @@
+{% if site.owner.pageviews_map_embed %}
+  {{ site.owner.pageviews_map_embed }}
+{% else %}
+  <div class="pageviews-fallback">
+    <div class="pageviews-fallback__count">
+      <div class="pageviews-fallback__title">Page Views</div>
+      <img
+        class="pageviews-fallback__badge"
+        src="https://hits.sh/{{ site.url | remove:'https://' | remove:'http://' }}.svg?style=flat&label=Views&color=ffffff&labelColor=2f5f97"
+        alt="Website page views">
+    </div>
+    <img
+      class="pageviews-fallback__map"
+      src="{{ site.url }}/images/pageviews-world-map.svg"
+      alt=""
+      aria-hidden="true">
+  </div>
+{% endif %}
