@@ -47,7 +47,7 @@ show_footer: false
 
 [Typhoon and Bike-Sharing: Non-linear Built Environment Associations with Activity Recovery in Shenzhen](https://doi.org/10.1016/j.trd.2026.105525)
 
-**Yi Long**, Haoran Jiang, Shaozhi Hong, Yangyang Su
+**Yi Long**, Haoran Jiang, Shaozhi Hong\*, Yangyang Su
 
 <span class="paper-box__meta">Transportation Research Part D: Transport and Environment, 159, 105525 (2026)</span>
 
@@ -123,7 +123,7 @@ Yibin Ao, **Yi Long**, Junjie Zheng*, Homa Bahmani
 
 [Non-Linear Effects of Children’s Daily Travel Distance on Their Travel Mode Choice Considering Different Destinations](https://doi.org/10.1016/j.jtrangeo.2024.103921)
 
-**Yi Long**, Yibin Ao*, Haimei Li*, Homa Bahmani, Mingyang Li
+**Yi Long**, Yibin Ao\*, Haimei Li\*, Homa Bahmani, Mingyang Li
 
 <span class="paper-box__meta">Journal of Transport Geography, 118, 103921 (2024)</span>
 
