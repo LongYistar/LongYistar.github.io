@@ -459,7 +459,7 @@ h6,
 .paper-box {
   display: flex;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
   padding: 1.9rem 0;
@@ -657,20 +657,27 @@ h6,
 }
 
 @media (min-width: 48em) {
+  .paper-box {
+    flex-wrap: nowrap;
+  }
+
   .paper-box .paper-box-image {
     justify-content: flex-start;
-    min-width: 13.5rem;
-    width: 40%;
+    min-width: 200px;
+    width: auto;
     max-width: 40%;
+    flex: 0 1 40%;
     order: 1;
     margin-top: 0;
   }
 
   .paper-box .paper-box-text {
     justify-content: flex-start;
-    width: 60%;
+    width: auto;
     max-width: 60%;
-    padding-left: 1.9rem;
+    flex: 1 1 60%;
+    padding-left: 2em;
+    box-sizing: border-box;
     order: 2;
   }
 }
