@@ -1,5 +1,10 @@
 {% if site.owner.pageviews_map_embed %}
   {{ site.owner.pageviews_map_embed }}
+  {% if site.owner.pageviews_map_image %}
+    <noscript>
+      {{ site.owner.pageviews_map_image }}
+    </noscript>
+  {% endif %}
 {% else %}
   <div class="pageviews-fallback">
     <div class="pageviews-fallback__count">

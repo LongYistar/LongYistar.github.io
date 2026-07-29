@@ -76,6 +76,7 @@ show_footer: false
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='paper-thumb'>
+      <div class="badge">JTG 2025</div>
       <span>The influence of rural built environment on residents’ non-commuting travel mode choices</span>
     </div>
   </div>

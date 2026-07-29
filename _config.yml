@@ -13,7 +13,10 @@ owner:
   location: Shanghai, China
   employer: Tongji University
   email: longyi.cn@outlook.com
-  pageviews_map_embed:
+  pageviews_map_embed: >-
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=h4SGk3FK9xqIbSjiJyQFrjRgmYgeqi4gSSZ9DNtrgJU&cl=ffffff&w=a"></script>
+  pageviews_map_image: >-
+    <a href="https://mapmyvisitors.com/web/1c6yc" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=h4SGk3FK9xqIbSjiJyQFrjRgmYgeqi4gSSZ9DNtrgJU&cl=ffffff" alt="Visit tracker"></a>
   # Paste your own visitor-map embed code here to replace the fallback page views card.
   # Social networking links are used in the author sidebar.
   #twitter: lancecai2002
