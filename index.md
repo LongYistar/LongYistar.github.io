@@ -88,7 +88,7 @@ Yibin Ao, **Yi Long**, Homa Bahmani
 
 <span class="paper-box__meta">Transport Policy, 175, 103896 (2026)</span>
 
-<span class="paper-box__metrics">CAS Top/2Q (2025 upgrade) · Scopus Transportation Q1 · IF 6.2 · CiteScore 10.3</span>
+<span class="paper-box__metrics">CAS Top/1Q · Scopus Transportation Q1 · IF 6.2 · CiteScore 10.3</span>
   </div>
 </div>
 

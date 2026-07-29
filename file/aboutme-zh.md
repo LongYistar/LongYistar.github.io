@@ -89,7 +89,7 @@ Yibin Ao, **Yi Long**, Homa Bahmani
 
 <span class="paper-box__meta">Transport Policy, 175, 103896 (2026)</span>
 
-<span class="paper-box__metrics">中科院 Top/2区（2025 升级版） · Scopus Transportation Q1 · IF 6.2 · CiteScore 10.3</span>
+<span class="paper-box__metrics">中科院 Top/1区 · Scopus Transportation Q1 · IF 6.2 · CiteScore 10.3</span>
   </div>
 </div>
 
