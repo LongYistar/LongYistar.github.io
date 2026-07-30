@@ -125,6 +125,13 @@ html[data-theme="dark"] body.page--home-profile .paper-box {
   border-bottom-color: rgba(132, 157, 186, 0.18);
 }
 
+html[data-theme="dark"] body.page--home-profile .paper-box:hover,
+html[data-theme="dark"] body.page--home-profile .paper-box:focus-within {
+  background: rgba(151, 194, 255, 0.08);
+  box-shadow: 0 18px 34px rgba(0, 0, 0, 0.34);
+  border-bottom-color: rgba(151, 194, 255, 0.3);
+}
+
 html[data-theme="dark"] body.page--home-profile .paper-box__meta {
   color: #ffb39a;
 }
@@ -622,6 +629,7 @@ h6,
 }
 
 .paper-box {
+  position: relative;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -629,6 +637,21 @@ h6,
   flex-wrap: wrap;
   padding: 1.9rem 0;
   border-bottom: 1px solid #efefef;
+  border-radius: 18px;
+  transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.paper-box:hover,
+.paper-box:focus-within {
+  transform: translateY(-2px);
+  background: rgba(34, 75, 141, 0.045);
+  box-shadow: 0 16px 32px rgba(15, 23, 42, 0.08);
+  border-bottom-color: rgba(34, 75, 141, 0.14);
+}
+
+.paper-box:hover .paper-card-media__image,
+.paper-box:focus-within .paper-card-media__image {
+  box-shadow: 6px 10px 22px rgba(15, 23, 42, 0.18);
 }
 
 .paper-box .paper-box-image {
