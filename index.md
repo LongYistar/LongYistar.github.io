@@ -149,7 +149,6 @@ Yibin Ao, **Yi Long**, Junjie Zheng*, Homa Bahmani
   <li><em>2024</em> Outstanding Paper Award, Annual Conference of the China Society of Territorial Economics.</li>
   <li><em>2021</em> Second Prize, National College Student Mathematics Competition (Non-Mathematics Majors), Chinese Mathematical Society.</li>
   <li><em>2020</em> National Second Prize, Contemporary Undergraduate Mathematical Contest in Modeling.</li>
-  <li>2020, 2021 Third Prize, U.S. Mathematical Contest in Modeling.</li>
   <li><em>2021</em> Sichuan Provincial College Student Comprehensive Quality A-Level Certificate.</li>
   <li><em>2020</em> First Prize (Champion), Sichuan BIM Modeling Competition.</li>
   <li><em>2019</em> National Encouragement Scholarship.</li>
