@@ -152,7 +152,6 @@ Yibin Ao, **Yi Long**, Junjie Zheng*, Homa Bahmani
   <li><em>2020</em> 全国大学生数学建模竞赛全国二等奖，教育部十大学科竞赛。</li>
   <li><em>2021</em> 四川省大学生综合素质 A 级证书，共青团四川省委、四川省学生联合会。</li>
   <li><em>2020</em> 四川省大学生 BIM 建模竞赛一等奖（冠军），四川省教育厅。</li>
-  <li><em>2019</em> 国家励志奖学金，四川省教育厅。</li>
 </ul>
 
 <span class='anchor' id='education-zh'></span>
